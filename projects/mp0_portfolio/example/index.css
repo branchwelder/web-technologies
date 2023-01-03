@@ -1,0 +1,26 @@
+.picture {
+  width: 300px;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+
+.picture:hover {
+  filter: brightness(80%);
+}
+
+.picture-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: auto;
+  gap: 12px;
+}
+
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}

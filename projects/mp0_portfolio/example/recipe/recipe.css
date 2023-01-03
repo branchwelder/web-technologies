@@ -1,0 +1,10 @@
+html,
+body {
+  font-family: sans-serif;
+  background-color: yellow;
+}
+
+ul {
+  margin: auto;
+  list-style-image: url("sqpurple.gif");
+}
