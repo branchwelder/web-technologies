@@ -85,5 +85,6 @@ sidebar. There will be a list of changes you have made. Hover over the "Changes"
 header, and you should see a Plus icon (+) appear to the right. Click it to
 stage your changes. Enter a commit message (e.g. "Testing my portfolio site) in
 the text entry box above (which should say "message"), and click the "Commit"
-button. Click the button that says push. Assuming you are successful, you should
-see your site online at username.github.io in a few minutes!
+button. It should turn into a button that says "sync changes" - click it. This
+will push your work to Github. Assuming you are successful, you should see your
+site online at username.github.io in a few minutes!
