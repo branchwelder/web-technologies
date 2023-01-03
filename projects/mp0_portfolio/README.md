@@ -52,9 +52,6 @@ These are the requirements for your portfolio site. Read them carefully!
 
 ## Instructions
 
-[This guide](https://pages.github.com/) is provided by Github. It but it
-contains instructions for
-
 ### Create a repository
 
 Head over to GitHub and create a new public repository named username.github.io,
@@ -88,3 +85,7 @@ the text entry box above (which should say "message"), and click the "Commit"
 button. It should turn into a button that says "sync changes" - click it. This
 will push your work to Github. Assuming you are successful, you should see your
 site online at username.github.io in a few minutes!
+
+<!-- ## Resources
+
+[This guide](https://pages.github.com/) is provided by Github.  -->
