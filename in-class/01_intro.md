@@ -1,7 +1,7 @@
 # Introduction: Setting up a development environment
 
 Today in class, set up your devlopment environment! This is often the first
-major hurdle you will have to overcome as a developer. AThe instructors will be
+major hurdle you will have to overcome as a developer. The instructors will be
 around to answer questions and help as needed.
 
 ## Discord

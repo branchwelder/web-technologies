@@ -86,6 +86,17 @@ button. It should turn into a button that says "sync changes" - click it. This
 will push your work to Github. Assuming you are successful, you should see your
 site online at username.github.io in a few minutes!
 
+## Customize!!
+
+And now for the momemt we've been waiting for! Customize and build your website
+according to the instructions listed above!
+
+Start learning a bit more about HTML and CSS by looking at these resources:
+
+- HTML elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- CSS cheat sheets
+  https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf
+
 <!-- ## Resources
 
 [This guide](https://pages.github.com/) is provided by Github.  -->
