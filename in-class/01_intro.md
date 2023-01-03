@@ -19,7 +19,8 @@ the name you want us to use in class!**
 
 ## Github Desktop
 
-Make a Github account and install Github Desktop.
+[Make a Github account](https://github.com/) and
+[install Github Desktop](https://desktop.github.com/).
 
 ## VS Code
 
@@ -71,3 +72,8 @@ the few I have mentioned to start. Add only one at a time, only add ones you
 need, and uninstall any you do not use. If you're interested, I have compiled a
 (perhaps outdated) list of the extensions I use
 [here](/resources/vscode_extensions.md).
+
+## Get started with your portfolio!
+
+Follow the instructions for [mp0](/projects/mp0_portfolio/) to start building
+your first website!

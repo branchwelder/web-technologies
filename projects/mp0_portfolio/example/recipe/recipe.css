@@ -1,10 +1,12 @@
 html,
 body {
   font-family: sans-serif;
-  background-color: yellow;
+  background-color: black;
+  color: white;
 }
 
-ul {
+.recipe-container {
+  width: 80%;
   margin: auto;
-  list-style-image: url("sqpurple.gif");
+  margin-top: 5rem;
 }
