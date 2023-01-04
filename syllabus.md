@@ -111,7 +111,7 @@ illness).
 
 Course sessions:
 
-- Tuesdays and Thursdays 12:30 - 2:50 PM (SIEG 233)
+- Tuesdays and Thursdays 12:30 - 2:50 PM (SIEG 329)
 
 Office hours:
 
@@ -120,13 +120,13 @@ Office hours:
 
 ### Grading
 
-The approximate grading breakdown is as follows:
+The grading breakdown is as follows:
 
 - Portfolio site: 15%
-- Mini Projects: 30%
 - Development reflections: 15%
-- Final Project: 40%
-- Participation (modifier): (+-5%)
+- Mini Projects: 30%
+- Final Project: 30%
+- Peer teaching: 10%
 
 Students are allowed and encouraged to work together to solve various technical,
 programming, and design problems. In the studio model for courses like this,

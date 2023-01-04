@@ -15,8 +15,6 @@
 
 - [CSS-Tricks](https://css-tricks.com/)
 
-## What can we do in the browser?
+## Examples
 
-Quite a lot, it turns out.
-
-https://developer.mozilla.org/en-US/docs/Web/Demos
+- [MDN web docs list of demos](https://developer.mozilla.org/en-US/docs/Web/Demos)
