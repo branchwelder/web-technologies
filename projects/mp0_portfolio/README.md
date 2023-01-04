@@ -145,35 +145,54 @@ usage in future classes.
 
 ## Working on your site!!
 
-And now for the momemt we've been waiting for! Customize and build your
-portfolio site according to the instructions listed above! The example site is
+And now for the moment we've been waiting for! Customize and build your
+portfolio site according to the specifications listed above! The example site is
 very minimal, but includes enough to get you started. I recommend starting by
 reading through the HTML and identifying how each portion of the HTML file
-corresponds to what you see in your browser. Then, you can incrementally change
-files and customize the content.
+corresponds to what you see in your browser. Regardless of your experience
+level, you can now begin editing your site by tweaking the example.
 
-The MDN Web docs are a fantastic resource for you as you learn web technologies.
-Their
+I recommend using the following resources while you customize your site. **These
+technologies are complex, and it is normal to feel overwhelmed as you begin to
+learn them.** Importantly, do not try to memorize the content of these articles.
+The _much more_ important thing is that you learn how to use their insights for
+your own purpose, and remember that you can consult them in the future when you
+have questions.
+
+As I mentioned in class, the MDN Web docs are a fantastic resource for you as
+you learn web technologies. Their
 [getting started guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 is a great introduction to these various technologies and how they fit together.
-For this assignment, I recommend reading the getting started, HTML, and CSS
-sections (up until the JavaScript section). In particular, I recommend reading
-the following articles from the _Getting Started_ section:
+For this assignment, I recommend fully reading the "Getting started" section,
+focusing most closely on the following articles:
 
 - [Dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files) -
   to understand how files are structured
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) -
-  to get an overview of how an HTML document is structured and what different
-  tags mean
+  to get an overview of how an HTML document is structured and what tags are
+  available to you
 - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics) -
   to understand how HTML can be styled
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) -
   to understand the grand scheme
 
+The following sections on HTML and CSS are much longer. Look at the topics
+listed in the sidebar and feel free to read any articles that look interesting.
+The articles that are probably most useful for this mini project are:
+
+- [HTML: Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+- [HTML: Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+- [HTML: Debugging](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+- [CSS: Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- [CSS: Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+- [CSS: Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+- [CSS: Debugging](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+- [CSS: Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
 ## Additional resources
 
-- [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
-- [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [CSS selectors overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 - [CSS cheat sheet](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf)
 
 ## Turning in your assignment
@@ -181,4 +200,4 @@ the following articles from the _Getting Started_ section:
 Once you are happy with your portfolio skeleton, deploy your site by committing
 and pushing your changes. Like before, this should automatically update your
 site on Github Pages. Submit your work via the Canvas assignment. (It will just
-ask for the URL to your site.)
+ask for the URL to your deployed site.)
