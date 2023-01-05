@@ -10,7 +10,26 @@ content, which is organized as follows:
 
 Please also see [the syllabus](/syllabus.md) for a course overview.
 
+---
+
+## Course Schedule
+
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'gantt': {
+        'numberSectionStyles': '2'
+    },
+    'themeVariables': {
+      'fontFamily': 'monospace',
+      'primaryColor': '#8c9aee',
+      'primaryBorderColor': '#3C56E2',
+      'tertiaryColor': '#f7f75e'
+    }
+  }
+}%%
+
 gantt
 title Winter 2023 Assignment Schedule
 axisFormat  %b %e
@@ -34,13 +53,7 @@ section Final Project
 Proposal              :                 fp0, 2023-02-16, 2023-02-23
 MVP                   :                 fp1, 2023-02-23, 2023-03-02
 Final version         :                 fp2, 2023-03-02, 2023-03-17
-
-click mp0 href "https://github.com/branchwelder/web-technologies/tree/main/projects/mp0_portfolio"
 ```
-
----
-
-## Course Schedule
 
 ### Week 1: Intro and HTML/CSS
 
