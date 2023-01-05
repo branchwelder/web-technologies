@@ -12,7 +12,12 @@ Please also see [the syllabus](/syllabus.md) for a course overview.
 
 ---
 
-## Course Schedule
+## Coursework
+
+This is a project-based course. Students will document their work on a public
+portfolio website throughout the quarter. Any technical work completed for this
+course should be publicly available. Coursework comprises mini projects, a final
+project, and development reflections ("hair tear shares").
 
 ```mermaid
 %%{
@@ -57,7 +62,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 ### Week 1: Intro and HTML/CSS
 
-#### 1.1 January 3: Intro
+#### 1.1 January 3: Welcome and Environment Setup
+
+<!-- TODO: Intro slides -->
 
 - Lecture
   - Welcome and course overview
