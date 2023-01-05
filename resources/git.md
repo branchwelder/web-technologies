@@ -39,6 +39,7 @@ The basic Git workflow goes something like this[^workflow]:
 
 ## Reference
 
+- [Github Docs](https://docs.github.com/en)
 - [GitHub Term Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [Pro Git](https://git-scm.com/book/en/v2) - Comprehensive book on Git fully

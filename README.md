@@ -62,7 +62,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 ## Weekly Schedule
 
-### Week 1: Intro and HTML/CSS
+<details><summary><h3>Week 1: Intro and HTML/CSS</h3></summary>
 
 #### 1.1 January 3: Welcome and Environment Setup
 
@@ -87,7 +87,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - CSS Transitions
   - Continue [MP0: Portfolio](projects/mp0_portfolio/README.md)
 
-### Week 2: The DOM, Javascript, and Web Extensions
+</details>
+
+<details><summary><h3>Week 2: The DOM, Javascript, and Web Extensions</h3></summary>
 
 #### 2.1 January 10: Javascript Intro
 
@@ -111,7 +113,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Continue MP1: Browser Extension
 
-### Week 3: Development strategies
+</details>
+
+<details><summary><h3>Week 3: Development Tools and Strategies</h3></summary>
 
 #### 3.1 January 17
 
@@ -127,6 +131,10 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - Lecture
 - In-class
   - Continue MP1: Browser Extension
+
+</details>
+
+<details><summary><h3>Week 4</h3></summary>
 
 ### Week 4
 
@@ -146,6 +154,10 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Continue MP2: Audio Visualizer
 
+</details>
+
+<details><summary><h3>Week 5</h3></summary>
+
 ### Week 5
 
 #### 5.1 January 31
@@ -160,7 +172,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Continue MP2: Audio Visualizer
 
-### Week 6
+</details>
+
+<details><summary><h3>Week 6</h3></summary>
 
 #### 6.1 February 7
 
@@ -180,7 +194,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Hair Tear Shares
   - Continue MP3: Game
 
-### Week 7
+</details>
+
+<details><summary><h3>Week 7</h3></summary>
 
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
@@ -193,7 +209,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Continue MP3: Game
 
-### Week 8
+</details>
+
+<details><summary><h3>Week 8</h3></summary>
 
 #### 8.1 February 21
 
@@ -213,7 +231,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - FP0 Share
   - Project work time
 
-### Week 9: Project Iteration
+</details>
+
+<details><summary><h3>Week 9: Project Iteration</h3></summary>
 
 #### 9.1 February 28
 
@@ -230,7 +250,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Project work time
 
-### Week 10: Project wrap-up
+</details>
+
+<details><summary><h3>Week 10: Project wrap-up</h3></summary>
 
 #### 10.1 March 7
 
@@ -246,9 +268,13 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - Final Projects demo day and fun!
 
-### Week 11: Finals Week
+</details>
+
+<details><summary><h3>Week 11: Finals Week</h3></summary>
 
 #### March 17
 
 - **DUE: FP2: Final Project**
 - **DUE: Final Portfolio**
+
+</details>
