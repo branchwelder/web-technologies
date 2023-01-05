@@ -1,4 +1,4 @@
-# Non-exhaustive List of VSCode Extensions I use!
+# A List of VS Code Extensions
 
 There are endless possibilities for customizing VSCode. Here are some of the
 extensions I have installed! As a general rule, it's good to understand what an
@@ -8,14 +8,17 @@ extension is causing issues, you can disable it or uninstall it. It's also good
 to uninstall any extensions you're not using, otherwise they will continue to
 run in the background.
 
-## Useful for HCDE 438
+## Essentials
 
-- Prettier: _Code formatting for a bunch of web-related languages_
-- Code Spell Checker: _A spell checker that also works for camelCase_
 - Live Server: _Local development server inside VSCode_
+- Prettier: _Code formatting for a bunch of web-related languages_
+- ESLint: _A linter for javascript_
+
+## Nice-to-have
+
+- Code Spell Checker: _A spell checker that also works for camelCase_
 - Path Intellisense - _Autocompletes filenames (useful for importing things)_
 - Path Autocomplete - _autocompletes paths (also useful for importing things)_
-- ESLint: _A linter for javascript_
 - IntelliSense for CSS class names in HTML: _adds autocompletion for your css
   class names_
 - Markdown All In One: _keyboard shortcuts, auto preview, formatting, etc. for
@@ -36,6 +39,12 @@ run in the background.
 - Discord Presence - _displays what you're doing in VSCode in the Discord
   sidebar_
 
+## Styling READMEs
+
+- [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)
+  (Extension Pack)
+- [Mermaid Markdown Syntax Support](https://marketplace.visualstudio.com/items?itemName=bpruitt-goddard.mermaid-markdown-syntax-highlighting)
+
 ## Optional, more advanced developer tools
 
 - Individual language support extensions: _there will be an extension for
@@ -52,6 +61,6 @@ run in the background.
 - GitLens: _advanced git extension with features like authorship visualization_
 - Remote - WSL: _useful for windows users who have the windows subsystem for
   linux installed_
-- Vim: _if you like vim keybindings, install this. if you do not know vim, do
+- Vim: _if you prefer vim keybindings, install this. If you do not know vim, do
   not install this_
 - Jupyter: _Support for Jupyter notebooks!_
