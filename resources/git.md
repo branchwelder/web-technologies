@@ -39,6 +39,8 @@ The basic Git workflow goes something like this[^workflow]:
 
 ## Reference
 
+- [Github CLI Manual](https://cli.github.com/manual/) - the GitHub CLI can be
+  useful if you are having trouble with authentication
 - [Github Docs](https://docs.github.com/en)
 - [GitHub Term Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
