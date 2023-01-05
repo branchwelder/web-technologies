@@ -60,6 +60,8 @@ MVP                   :                 fp1, 2023-02-23, 2023-03-02
 Final version         :                 fp2, 2023-03-02, 2023-03-17
 ```
 
+## Weekly Schedule
+
 ### Week 1: Intro and HTML/CSS
 
 #### 1.1 January 3: Welcome and Environment Setup
