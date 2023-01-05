@@ -1,4 +1,4 @@
-# Web Technologies
+![](/assets/header.png)
 
 Welcome to Web Technologies! This is the central repository for the course
 content, which is organized as follows:
@@ -35,7 +35,7 @@ Proposal              :                 fp0, 2023-02-16, 2023-02-23
 MVP                   :                 fp1, 2023-02-23, 2023-03-02
 Final version         :                 fp2, 2023-03-02, 2023-03-17
 
-click mp0 href "/projects/mp0_portfolio"
+click mp0 href "https://github.com/branchwelder/web-technologies/tree/main/projects/mp0_portfolio"
 ```
 
 ---
