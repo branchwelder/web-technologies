@@ -3,10 +3,11 @@
 Welcome to Web Technologies! This is the central repository for the course
 content, which is organized as follows:
 
-- `class/` contains descriptions of in-class assignments for each class session
+- `class/` contains instructions for in-class activities
 - `projects/` contains folders with instructions and starter code for each
   project you will do in the course
 - `resources/` contains lists of resources for your reference
+- `slides/` contains PDF versions of slides used in class
 
 Please also see [the syllabus](/syllabus.md) for a course overview.
 
@@ -70,6 +71,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 - Lecture
   - Welcome and course overview
+  - [slides](slides/1.1.pdf)
 - In-class
   - Activity: [Environment setup](class/01_intro.md)
 - Assigned work
@@ -80,9 +82,10 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 <!-- TODO: Link slides -->
 
 - Lecture
-  - Git review
+  - Git review: cloning a repo, editing content, pushing changes
   - MP0 example walkthrough
   - HTML/CSS, live demo
+  - [slides](slides/1.2.pdf)
 - In-class
   - Continue working on [MP0: Portfolio](projects/mp0_portfolio/README.md)
 
