@@ -66,26 +66,25 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 1.1 January 3: Welcome and Environment Setup
 
-<!-- TODO: Intro slides -->
+<!-- TODO: Link slides -->
 
 - Lecture
   - Welcome and course overview
 - In-class
-  - [Environment setup](class/01_intro.md)
-  - Begin [MP0: Portfolio site](projects/mp0_portfolio/README.md)
+  - Activity: [Environment setup](class/01_intro.md)
+- Assigned work
+  - [MP0: Portfolio site](projects/mp0_portfolio/README.md)
 
 #### 1.2 January 5: HTML/CSS Intro
 
-<!-- TODO: HTML and CSS Slides -->
-<!-- TODO: Git slides -->
-<!-- TODO: CSS Transitions activity -->
+<!-- TODO: Link slides -->
 
 - Lecture
-  - HTML and CSS
   - Git review
+  - MP0 example walkthrough
+  - HTML/CSS, live demo
 - In-class
-  - CSS Transitions
-  - Continue [MP0: Portfolio](projects/mp0_portfolio/README.md)
+  - Continue working on [MP0: Portfolio](projects/mp0_portfolio/README.md)
 
 </details>
 
@@ -93,23 +92,19 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.1 January 10: Javascript Intro
 
-<!-- TODO: Javascript intro slides -->
-<!-- TODO: MP1 Writeup -->
-<!-- TODO: JS portfolio activity -->
-
 - Due
   - MP0
 - Lecture
   - JavaScript Intro
 - In-class
   - MP0 share
-  - Adding interaction to your portfolio with JavaScript
+  - Activity: Adding interaction to your portfolio with JavaScript
   - Begin MP1: Browser Extension
 
 #### 2.2 January 12
 
 - Lecture
-  - JavaScript
+  - Web Extensions overview, MP1 walkthrough
 - In-class
   - Continue MP1: Browser Extension
 
@@ -134,7 +129,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 4</h3></summary>
+<details><summary><h3>Week 4: Browser APIs</h3></summary>
 
 ### Week 4
 
@@ -156,7 +151,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 5</h3></summary>
+<details><summary><h3>Week 5: Libraries and Frameworks</h3></summary>
 
 ### Week 5
 
@@ -174,7 +169,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 6</h3></summary>
+<details><summary><h3>Week 6: Games and Interactivity</h3></summary>
 
 #### 6.1 February 7
 
@@ -196,7 +191,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 7</h3></summary>
+<details><summary><h3>Week 7: Mobile</h3></summary>
 
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
@@ -211,7 +206,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 8</h3></summary>
+<details><summary><h3>Week 8: The Full Stack</h3></summary>
 
 #### 8.1 February 21
 
@@ -233,7 +228,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 9: Project Iteration</h3></summary>
+<details><summary><h3>Week 9: Special Topics, Project Iteration</h3></summary>
 
 #### 9.1 February 28
 
@@ -252,7 +247,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 10: Project wrap-up</h3></summary>
+<details><summary><h3>Week 10: Project wrap-up and Demos!</h3></summary>
 
 #### 10.1 March 7
 
