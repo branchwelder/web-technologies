@@ -5,9 +5,12 @@
 - [HTML Handbook](https://thevalleyofcode.com/html/)
 - [CSS Handbook](https://thevalleyofcode.com/css/)
 
-## Fun
+## High-Level Overviews
 
-- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Learn X in Y Minutes (HTML)](https://learnxinyminutes.com/docs/html/)
+- [Learn X in Y Minutes (CSS)](https://learnxinyminutes.com/docs/css/)
+
+
 
 ## Getting Started
 

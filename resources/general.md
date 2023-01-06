@@ -6,15 +6,22 @@
 - [W3 Schools](https://www.w3schools.com/)
 - [Digital Ocean](https://www.digitalocean.com/community/tutorials)
 
+## FAQS
+
+- [MDN Common Questions](https://developer.mozilla.org/en-US/docs/Learn/Common_questions)
+
 ## Full Courses
 
 - [The Odin Project](https://www.theodinproject.com/) is a fantastic open-source
   curriculum for learning web development
+- [egghead.io](https://egghead.io/)
 
-<!-- ## Web APIs
+## Language Learning
 
-- [MDN Docs list](https://developer.mozilla.org/en-US/docs/Web/API)
-- [Demos of open web technologies](https://developer.mozilla.org/en-US/docs/Web/Demos#css) -->
+- [Learn X in Y Minutes](https://learnxinyminutes.com/) - has helpful overviews
+  of different programming language concepts
+- [Flavio Copes](https://flaviocopes.com) Maintains a number of handbooks for
+  various web technologies
 
 ## Example Applications
 
