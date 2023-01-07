@@ -8,3 +8,7 @@ Here is an excellent
 by Marcy Sutton.
 
 [List of web accessibility evaluation tools](https://www.w3.org/WAI/ER/tools/).
+
+## Misc
+
+- [Accessibility features of SVG](https://www.w3.org/TR/SVG-access/)

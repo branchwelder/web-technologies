@@ -1,9 +1,13 @@
-# Web APIs
+# Browser APIs
 
 ## Start here
 
 - Read
   [this MDN Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+
+## Local Storage
+
+- [Video on persisting browser data](https://egghead.io/lessons/javascript-web-apis-persisting-browser-data-with-window-localstorage)
 
 ## Web Audio
 

@@ -1,12 +1,21 @@
 # JavaScript
 
-[MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-have a good intro to JavaScript
+**_What is JavaScript?_** JavaScript is a programming language.
+
+## Start Here
+
+[The MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+has a good intro to JavaScript
 
 ## Resources
 
 - [Learn X in Y Minutes (JS)](https://learnxinyminutes.com/docs/javascript/)
 - [JavaScript Handbook](https://thevalleyofcode.com/js/)
+
+## Books
+
+- JavaScript: The Definitive Guide by David Flanagan
+- Javascript: The Good Parts by Douglas Crockford
 
 ## Common Issues
 

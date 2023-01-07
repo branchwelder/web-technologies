@@ -3,9 +3,9 @@
 Welcome to Web Technologies! This is the central repository for the course
 content, which is organized as follows:
 
-- `class/` contains instructions for in-class activities
-- `projects/` contains folders with instructions and starter code for each
-  project you will do in the course
+- `activities/` contains instructions for in-class activities
+- `assignments/` contains instructions for each course assignment
+- `examples/` contains small examples and starter code for the mini projects
 - `resources/` contains lists of resources for your reference
 - `slides/` contains PDF versions of slides used in class
 
@@ -15,9 +15,12 @@ Please also see [the syllabus](/syllabus.md) for a course overview.
 
 ## Coursework
 
-This is a project-based course. Students will document their work on a public
-portfolio website throughout the quarter. Any technical work completed for this
-course should be publicly available. Coursework comprises mini projects, a final
+This is a project-based course. There is no "one true way" to learn about web
+technologies. Instead of problem sets and quizzes in which their work will be
+lost to time, students will "just build websites"[^justbuildwebsites]. We will
+begin by setting up a portfolio website, which will grow over the quarter to
+document projects done for the course. As a result, any work done for this
+course will be publicly visible. Coursework comprises mini projects, a final
 project, and development reflections ("hair tear shares").
 
 ```mermaid
@@ -125,6 +128,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - Due
   - Hair Tear Share #1
 - Lecture
+  - Dev Tools
+  - Debugging approaches
 - In-class
   - Hair Tear Shares
   - Continue MP1: Browser Extension
@@ -148,12 +153,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - Lecture
   - Intro to Browser APIS
 - In-class
-  - MP1 Share
+  - Share: MP1
+  - Activity:
   - Begin MP2: Audio Visualizer
 
 #### 4.2 January 26
 
 - Lecture
+  - SVG
 - In-class
   - Continue MP2: Audio Visualizer
 
@@ -166,6 +173,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 5.1 January 31
 
 - Lecture
+  - Web Components: htmlElement, React, and Lit
 - In-class
   - Continue MP2: Audio Visualizer
 
@@ -281,3 +289,5 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - **DUE: Final Portfolio**
 
 </details>
+
+[^justbuildwebsites]: http://justbuildwebsites.com/
