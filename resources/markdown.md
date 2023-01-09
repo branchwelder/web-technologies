@@ -1,11 +1,8 @@
 # Markdown resources
 
 It’s meant to be an easy to read and write syntax which converts easily to HTML
-(and now many other formats as well).
-
-## History
-
-Markdown was created by John Gruber and Aaron Swartz in 2004.[^wikipedia]
+(and now many other formats as well).Markdown was created by John Gruber and
+Aaron Swartz in 2004.[^wikipedia]
 
 ## Overviews
 

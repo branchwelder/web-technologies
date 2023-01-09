@@ -7,6 +7,15 @@ informative until you have a reason to use them.
 
 - [CSS Features Overview](https://2022.stateofcss.com/en-US/features/)
 
+## Start here
+
+- [Learn X in Y Minutes (CSS)](https://learnxinyminutes.com/docs/css/)
+- [CSS: Text and Font Styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+- [CSS: Sizing](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS)
+- [CSS: Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+- [CSS: Debugging](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Debugging_CSS)
+- [CSS: Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
 ## Reference
 
 - [CSS selectors overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)

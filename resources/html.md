@@ -1,7 +1,7 @@
 # HTML Resources
 
 The HyperText Markup Language (HTML) is the standard markup language for
-documents designed to be displayed in a web browser.[^wikipedia] _HTML is a
+documents designed to be displayed in a web browser[^wikipedia]. _HTML is a
 **markup language** not a **programming language**!_
 
 Breaking down the acronym[^newcode]:
@@ -21,8 +21,11 @@ knows his code will be able to tell that you are, at best, uninformed.
 
 ## Start Here
 
-The MDN Web docs are a fantastic resource for you as you learn web technologies.
-Their
+Watch
+[this video](https://css-tricks.com/video-screencasts/58-html-css-the-very-basics/)
+to get a sense of the basics. To get a quick overview of HTML syntax, consult
+[Learn X in Y Minutes (HTML)](https://learnxinyminutes.com/docs/html/). The MDN
+Web docs are a fantastic resource for you as you learn web technologies. Their
 [getting started guide](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 is a great introduction to these various technologies and how they fit together.
 I recommend fully reading the "Getting started" section, focusing most closely
@@ -38,12 +41,19 @@ on the following articles:
 - [How the web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) -
   to understand the grand scheme
 
-To get a quick overview of HTML syntax, consult
-[Learn X in Y Minutes (HTML)](https://learnxinyminutes.com/docs/html/).
+The following sections on HTML and CSS are much longer. Look at the topics
+listed in the sidebar and feel free to read any articles that look interesting.
+Here are a few that might be most useful
 
-## Intros
+- [HTML: Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
+- [HTML: Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
+- [HTML: Debugging](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
+
+## Reading
 
 - [W3 Schools](https://www.w3schools.com/html/html_intro.asp)
+- [HTML Handbook](https://thevalleyofcode.com/html/)
+- [HTML Reading List](https://thenewcode.com/865/A-Complete-Web-Development-Reading-List-for-HTML)
 
 ## Tools
 
@@ -51,18 +61,10 @@ To get a quick overview of HTML syntax, consult
   [syntax guide](https://docs.emmet.io/abbreviations/syntax/) /
   [VS Code guide](https://code.visualstudio.com/docs/editor/emmet)
 
-## Handbooks
-
-- [HTML Handbook](https://thevalleyofcode.com/html/)
-- [HTML Reading List](https://thenewcode.com/865/A-Complete-Web-Development-Reading-List-for-HTML)
-
-# Reference
+# Additional Reference
 
 - [W3 Schools list of elements](https://www.w3schools.com/tags/default.asp)
-
-## Reading
-
-- The [HTML Wikipedia Page](https://en.wikipedia.org/wiki/HTML)
+- [MDN Docs HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
 <!-- REFERENCES -->
 
