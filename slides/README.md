@@ -31,6 +31,12 @@ My current command:
 pandoc -t revealjs -s input.md -o output.html -V transition=none -V center=false --css=slides.css
 ```
 
+## Print to PDF
+
+Open your presentation with print-pdf included in the query string, for example:
+http://localhost:8000/?print-pdf. You can test this at
+revealjs.com/demo?print-pdf. Open the in-browser print dialog (CTRL/CMD+P).
+
 <!-- ## Converting Markdown to Slide Decks
 
 Pandoc has a few options for converting markdown to slides. I tried all of them

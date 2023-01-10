@@ -74,9 +74,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Welcome and course overview
   - [slides](slides/1.1.pdf)
 - In-class
-  - Activity: [Environment setup](activities/01_setup.md)
+  - Activity: [Environment setup](activities/01_intro.md)
 - Assigned work
-  - [MP0: Portfolio site](assignments/mp0_setup.md)
+  - [MP0: Portfolio site](projects/mp0_portfolio.md)
 
 #### 1.2 January 5: HTML/CSS Intro
 
@@ -86,7 +86,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - HTML/CSS, live demo
   - [slides](slides/1.2.pdf)
 - In-class
-  - Continue working on [MP0: Portfolio](assignments/mp0_setup.md)
+  - Continue working on [MP0: Portfolio](assignments/mp0_portfolio.md)
 
 </details>
 
@@ -101,12 +101,15 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 - Due
   - MP0
-- Lecture
-  - JavaScript Intro
 - In-class
+  - [slides](slides/2.1.pdf)
   - MP0 share
-  - Activity: Adding interaction to your portfolio with JavaScript
-  - Begin MP1: Browser Extension
+  - JavaScript overview!
+  - Break
+  - Intro to the DOM
+  - Codepen Live demos!
+  - Lab time! [activity](/activities/02_js_and_the_dom.md)
+- Tonight: MP1 released: browser extension
 
 #### 2.2 January 12
 
