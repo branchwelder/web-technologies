@@ -1,7 +1,8 @@
 # In-class activities
 
 These in-class activities are not graded, but they are designed to help students
-practice skills that they will apply in their projects.
+practice new skills and walk them through how to apply them to their projects
+and portfolios.
 
 <!--
 

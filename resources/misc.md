@@ -1,6 +1,23 @@
 # Misc
 
-These are resources that don't really have another home at the moment.
+These are resources that don't currently have their own page, but probably will
+in the future.
+
+## Browser APIs
+
+### Start here
+
+- Read
+  [this MDN Overview](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+
+### Local Storage
+
+- [Video on persisting browser data](https://egghead.io/lessons/javascript-web-apis-persisting-browser-data-with-window-localstorage)
+
+### Web Audio
+
+- [Intro to the web audio API](https://egghead.io/lessons/javascript-intro-to-the-web-audio-api)
+  by Keith Peters
 
 ## The Command Line
 
@@ -53,3 +70,17 @@ In order of popularity:[^devsurvey22]
 
 [^devsurvey22]:
     https://survey.stackoverflow.co/2022/#most-popular-technologies-webframe
+
+## Web Components
+
+[All the ways to make a web component](https://webcomponents.dev/blog/all-the-ways-to-make-a-web-component/)
+(updated Feb 2022 at time of writing) provides a good overview of the different
+libraries and strategies. Personally, I use [Lit](https://lit.dev).
+
+### Overviews
+
+- [Intro to Applying Web Components](https://egghead.io/courses/web-components-f902)
+
+### React
+
+- Flavio Copes' [React Handbook](https://thevalleyofcode.com/react/)

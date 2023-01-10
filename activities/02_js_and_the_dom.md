@@ -1,7 +1,8 @@
 # Introducing JavaScript
 
-As usual, consult the class [JS Resources Page](/resources/javascript.md) and
-post any helpful overviews, tutorials, or videos you find in the Discord.
+As usual, consult the class
+[resource page on JavaScript](/resources/javascript.md) and post any helpful
+overviews, tutorials, or videos you find in the Discord.
 
 ## Getting Started
 
@@ -11,3 +12,5 @@ post any helpful overviews, tutorials, or videos you find in the Discord.
   [Intro to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - Go through javascript.info's
   [JavaScript Fundamentals](https://javascript.info/first-steps) chapter
+
+## Activity:

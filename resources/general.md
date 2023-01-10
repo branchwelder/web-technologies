@@ -51,8 +51,8 @@ CodePen and JSFiddle seem to be the most popular from my anecdotal experience.
 
 - [Learn X in Y Minutes](https://learnxinyminutes.com/) - has helpful overviews
   of different programming language concepts
-- [Flavio Copes](https://flaviocopes.com) Maintains a number of handbooks for
-  various web technologies
+- [Flavio Copes](https://flaviocopes.com) maintains a number of handbooks with
+  high-level overviews of various web technologies
 
 ## Example Applications
 
