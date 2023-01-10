@@ -16,6 +16,11 @@ images:[^mdnsvg]
 
 - [MDN Docs Intro](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 
+## Demos
+
+- [SVG Wow!](http://svg-wow.org/)
+- [SVG-PCB](https://leomcelroy.com/svg-pcb-website/)
+
 ## Additional Topics
 
 - [Styling SVG with CSS (CSSTricks)](https://css-tricks.com/svg-properties-and-css/)

@@ -13,6 +13,6 @@ and found the [reveal.js]() approach to work best.
 
 ### Gotchas
 
-I found that APT had a woefully outdated version of Pandoc, which meant that
+I found that apt had a woefully outdated version of Pandoc, which meant that
 support for reveal.js V4 didn't exist. I didn't realize this for a while and was
 very frustrated because my slides were not generating correctly.
