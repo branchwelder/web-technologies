@@ -84,3 +84,52 @@ libraries and strategies. Personally, I use [Lit](https://lit.dev).
 ### React
 
 - Flavio Copes' [React Handbook](https://thevalleyofcode.com/react/)
+
+## Mobile
+
+### Relevant Browser APIs
+
+- Battery API
+- Screen Orientation API
+- Vibration API
+- Sensor APIs:
+  - AbsoluteOrientationSensor
+  - Accelerometer
+  - AmbientLightSensor
+  - GravitySensor
+  - Gyroscope
+  - LinearAccelerationSensor
+  - Magnetometer
+  - RelativeOrientationSensor
+
+## Video
+
+## Relevant Browser APIs
+
+- Picture-in-Picture API
+- Fullscreen API
+- MediaStream Recording API
+
+## Audio
+
+### Resources
+
+- [Excellent tutorial](https://www.youtube.com/watch?v=laCjGMhASp8) from uitodev
+  introducing the web audio API
+- [W3C Spec](https://www.w3.org/TR/webaudio/)
+- [Interactive article about waveforms](https://pudding.cool/2018/02/waveforms/)
+
+### Examples
+
+- [Audio Analyser](https://mdn.github.io/webaudio-examples/audio-analyser/)
+- [Muse](https://muse.hackclub.com/)
+- [Patatap](https://www.patatap.com/)
+
+### Relevant Browser APIs
+
+- Web Audio API
+- Web MIDI API
+- Web Speech API
+
+- MediaStream Image Capture API
+- Media Source API

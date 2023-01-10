@@ -33,3 +33,19 @@ that includes the following sections:
 - A bulleted list of known unknowns (things you don't currently know how to do,
   but know you will have to figure out), and ideas
 - A bulleted list of stretch goals.
+
+<!-- # Final Project
+
+There are very few restrictions on what to do for your final project.
+
+Here are some example paths that I think would be a good fit given the topics
+covered in this course:
+
+- Write a VS Code extension
+- Revisit one of the three mini projects and make a more refined version
+- Add a module to Planager, Hannah's research project!
+- Something completely different!
+
+## Things we haven't covered
+
+- WebXR Device API -->
