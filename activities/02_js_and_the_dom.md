@@ -4,15 +4,18 @@ As usual, consult the class
 [resource page on JavaScript](/resources/javascript.md) and post any helpful
 overviews, tutorials, or videos you find in the Discord.
 
+- Read MDN's
+  [Intro to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 ## Activity
 
 The slides included a number of codepens that provide simple examples of DOM
 interactions:
 
-- [Adding an event listener](https://codepen.io/branchwelder/pen/abjJNmw)
-- [Appending children to a bookmarks div](https://codepen.io/branchwelder/pen/oNMZbrG)
+- [Adding different kinds of event listeners](https://codepen.io/branchwelder/pen/abjJNmw)
+- [Creating and adding elements](https://codepen.io/branchwelder/pen/oNMZbrG)
 - [Querying the DOM and randomizing colors](https://codepen.io/branchwelder/pen/vYayyOP)
-- [Setting and clearing text](https://codepen.io/branchwelder/pen/poZeeVm)
 
 Start by playing around with them and modifying the code.
 
@@ -26,12 +29,9 @@ page. Here are some ideas for what you could do:
 
 ## Resources that might be helpful
 
-- [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
-- Read MDN's
-  [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 - Read the
   [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-- Also see the MDN
-  [Intro to JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- Writing loops
+  [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
 - Go through javascript.info's
   [JavaScript Fundamentals](https://javascript.info/first-steps) chapter
