@@ -1,10 +1,15 @@
-# Week 2: JavaScript and the DOM
+---
+title: "JavaScript and the DOM"
+author: Hannah Twigg-Smith
+---
 
-1/10/23
+<!-- # Week 2: JavaScript and the DOM
 
-## Logistics
+1/10/23 -->
 
-### Today
+# Logistics
+
+## Today
 
 - Show-off session (volunteers?)
 - Share-back time
@@ -14,74 +19,72 @@
 - JavaScript activity
 - Work time!
 
-### Hair-Tear Shares
+## Hair-Tear Shares
 
 - First one is due Jan 17, a week from today
 
-## MP1
-
-### MP1: Browser extension
+## MP1: Browser extension
 
 For the next two weeks, you will be working on MP1. Instead of me giving you a
 bunch of JS to memorize, we are going to do the project the way you might on
 your own.
 
-### MP1 steps
+## MP1 steps
 
 1. Think of what you want to make.
 2. Figure out how to make it.
 
-### Uncomfortable?
+## Uncomfortable?
 
 That is OK!
 
 Remember: _you are not graded on your code_.
 
-## Javascript
+# Javascript
 
-### What is Javascript?
+## What is Javascript?
 
-### Javascript is not Java!
+## Javascript is not Java!
 
-### Brief History
+## Brief History
 
-### Why Use Javascript?
+## Why Use Javascript?
 
 Why might we want to use JavaScript?
 
-### Why use JavaScript?
+## Why use JavaScript?
 
 - Store useful values inside variables
 - Generate content that can be displayed on your page
 - Run code in response to certain events occurring on a web page
 - Interact with browser APIS and third-party APIs
 
-### Why use JavaScript?
+## Why use JavaScript?
 
 JavaScript is the _common interface_ that between your personal page, the
 browser, and other libraries and frameworks.
 
-## Common Terms
+# Common Terms
 
-### Interpreted vs compiled
+## Interpreted vs compiled
 
 JavaScript is _interpreted_
 
-### Server-side vs Client-side
+## Server-side vs Client-side
 
 Client-side code is code that is run on the user's computer
 
 Server-side code is run on the server.
 
-### Server-side vs Client-side
+## Server-side vs Client-side
 
 JavaScript can be either client-side or server-side.
 
-### Dynamic vs Static
+## Dynamic vs Static
 
-## Adding JavaScript to your page
+# Adding JavaScript to your page
 
-### Internal: In a script tag!
+## Internal: In a script tag!
 
 ```html
 <script>
@@ -91,7 +94,7 @@ JavaScript can be either client-side or server-side.
 
 Example: https://codepen.io/branchwelder/pen/abjJNmw
 
-### External: In another file!
+## External: In another file!
 
 `index.html`:
 
@@ -105,7 +108,7 @@ Example: https://codepen.io/branchwelder/pen/abjJNmw
 console.log("Hello World!");
 ```
 
-### Loading your script properly
+## Loading your script properly
 
 We need to make sure that our JavaScript is loaded in the correct order.
 
@@ -114,15 +117,15 @@ HTML on a page is loaded in the order in which it appears.
 If your JavaScript is loaded and parsed before the HTML it is trying to access,
 your code won't work!
 
-### `async` and `defer`
+## `async` and `defer`
 
-## A quick tour of JavaScript
+# A quick tour of JavaScript
 
 <!-- [https://learnxinyminutes.com/docs/javascript/](https://learnxinyminutes.com/docs/javascript/) -->
 
 <!-- Everyone is coming to this class with different experience levels, but has indicated that they are at familiar with at least one other language, mainly Python and Java. There are many tutorials on the internet that will be more useful to you than me standing up here and lecturing, as you will be able to go through them at your own pace. So, I am going to go through these slides pretty quickly. -->
 
-### Comments
+## Comments
 
 Single line comment:
 
@@ -139,7 +142,7 @@ Multi-line comment:
 */
 ```
 
-### Data Types
+## Data Types
 
 Seven primitive data types:
 
@@ -158,7 +161,7 @@ And one non-primitive data type:
 
 - `object` for more complex data structures.
 
-### Strings
+## Strings
 
 ```js
 let str = "Hello";
@@ -166,14 +169,14 @@ let str2 = "Single quotes are ok too";
 let phrase = `can embed another ${str}`;
 ```
 
-### Booleans
+## Booleans
 
 ```js
 let nameFieldChecked = true; // yes, name field is checked
 let ageFieldChecked = false; // no, age field is not checked
 ```
 
-### Booleans
+## Booleans
 
 ```js
 let isGreater = 4 > 1;
@@ -181,7 +184,7 @@ let isGreater = 4 > 1;
 alert(isGreater); // true (the comparison result is "yes")
 ```
 
-### `null`
+## `null`
 
 A special value which represents “nothing”, “empty” or “value unknown”.
 
@@ -189,7 +192,7 @@ A special value which represents “nothing”, “empty” or “value unknown�
 let age = null;
 ```
 
-### `undefined`
+## `undefined`
 
 ```js
 let age;
@@ -197,7 +200,7 @@ let age;
 alert(age); // shows "undefined"
 ```
 
-### Arrays
+## Arrays
 
 An _ordered_ collection of elements,
 
@@ -206,14 +209,14 @@ const a = [];
 const a = Array();
 ```
 
-### Arrays
+## Arrays
 
 ```js
 const a = [1, 2, 3];
 const a = Array.of(1, 2, 3);
 ```
 
-### Arrays
+## Arrays
 
 Arrays can hold any value, even values of different types:
 
@@ -221,7 +224,7 @@ Arrays can hold any value, even values of different types:
 const a = [1, "Flavio", ["a", "b"]];
 ```
 
-### Arrays
+## Arrays
 
 This means we can create _multi-dimensional_ arrays:
 
@@ -236,19 +239,23 @@ matrix[0][0]; // 1
 matrix[2][0]; // 7
 ```
 
-## Variables
+# Variables
 
-### Two ways of defining variables
+## Two ways of defining variables
 
 `let` - when it will change in the future
 
 `const` - when it will not change
 
-### `let` versus `const`
+## `let` versus `const`
+
+<!-- ```js
+let happy = true;
+``` -->
 
 _Use `const` when you can, and use `let` when you have to._
 
-### you will also see `var`
+## you will also see `var`
 
 As you look around the internet, you will also see `var` used to declare
 variables.
