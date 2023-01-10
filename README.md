@@ -3,9 +3,9 @@
 Welcome to Web Technologies! This is the central repository for the course
 content, which is organized as follows:
 
-- `class/` contains instructions for in-class activities
-- `projects/` contains folders with instructions and starter code for each
-  project you will do in the course
+- `activities/` contains instructions for in-class activities
+- `assignments/` contains instructions for each course assignment
+- `examples/` contains small examples and starter code for the mini projects
 - `resources/` contains lists of resources for your reference
 - `slides/` contains PDF versions of slides used in class
 
@@ -15,9 +15,12 @@ Please also see [the syllabus](/syllabus.md) for a course overview.
 
 ## Coursework
 
-This is a project-based course. Students will document their work on a public
-portfolio website throughout the quarter. Any technical work completed for this
-course should be publicly available. Coursework comprises mini projects, a final
+This is a project-based course. There is no "one true way" to learn about web
+technologies. Instead of problem sets and quizzes in which their work will be
+lost to time, students will "just build websites"[^justbuildwebsites]. We will
+begin by setting up a portfolio website, which will grow over the quarter to
+document projects done for the course. As a result, any work done for this
+course will be publicly visible. Coursework comprises mini projects, a final
 project, and development reflections ("hair tear shares").
 
 ```mermaid
@@ -67,19 +70,15 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 1.1 January 3: Welcome and Environment Setup
 
-<!-- TODO: Link slides -->
-
 - Lecture
   - Welcome and course overview
   - [slides](slides/1.1.pdf)
 - In-class
-  - Activity: [Environment setup](class/01_intro.md)
+  - Activity: [Environment setup](activities/01_setup.md)
 - Assigned work
-  - [MP0: Portfolio site](projects/mp0_portfolio/README.md)
+  - [MP0: Portfolio site](assignments/mp0_setup.md)
 
 #### 1.2 January 5: HTML/CSS Intro
-
-<!-- TODO: Link slides -->
 
 - Lecture
   - Git review: cloning a repo, editing content, pushing changes
@@ -87,13 +86,18 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - HTML/CSS, live demo
   - [slides](slides/1.2.pdf)
 - In-class
-  - Continue working on [MP0: Portfolio](projects/mp0_portfolio/README.md)
+  - Continue working on [MP0: Portfolio](assignments/mp0_setup.md)
 
 </details>
 
 <details><summary><h3>Week 2: The DOM, Javascript, and Web Extensions</h3></summary>
 
 #### 2.1 January 10: Javascript Intro
+
+<!-- TODO: Browser Extension Example -->
+<!-- TODO: JS Intro Slides -->
+<!-- TODO: JS Interaction example -->
+<!-- TODO: MP1 Writeup -->
 
 - Due
   - MP0
@@ -106,8 +110,10 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.2 January 12
 
+<!-- TODO: Extension Slides -->
+
 - Lecture
-  - Web Extensions overview, MP1 walkthrough
+  - Browser Extensions overview, MP1 walkthrough
 - In-class
   - Continue MP1: Browser Extension
 
@@ -117,9 +123,13 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 3.1 January 17
 
+<!-- TODO: HTS writeup -->
+
 - Due
   - Hair Tear Share #1
 - Lecture
+  - Dev Tools
+  - Debugging approaches
 - In-class
   - Hair Tear Shares
   - Continue MP1: Browser Extension
@@ -143,12 +153,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - Lecture
   - Intro to Browser APIS
 - In-class
-  - MP1 Share
+  - Share: MP1
+  - Activity:
   - Begin MP2: Audio Visualizer
 
 #### 4.2 January 26
 
 - Lecture
+  - SVG
 - In-class
   - Continue MP2: Audio Visualizer
 
@@ -161,6 +173,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 5.1 January 31
 
 - Lecture
+  - Web Components: htmlElement, React, and Lit
 - In-class
   - Continue MP2: Audio Visualizer
 
@@ -276,3 +289,5 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - **DUE: Final Portfolio**
 
 </details>
+
+[^justbuildwebsites]: http://justbuildwebsites.com/
