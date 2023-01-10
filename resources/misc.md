@@ -22,6 +22,7 @@ in the future.
 ## The Command Line
 
 - [Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
+- Game: [Terminal Town](http://www.andymakes.com/?p=terminaltown) (Mac only)
 
 ## Accessibility on the Web
 
