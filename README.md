@@ -41,12 +41,12 @@ title Winter 2023 Assignment Schedule
 axisFormat  %b %e
 
 section Continuous
-Portfolio             :active,          prf,  2023-01-03, 2023-03-17
+Portfolio             :active,          prf, 2023-01-03, 2023-03-17
 Peer Teaching         :active,          pte, 2023-01-03, 2023-03-17
 
 section Shares
-Hair Tear Share 1     :milestone, crit, hts, 2023-01-17, 0d
-Hair Tear Share 2     :milestone, crit, hts, 2023-02-09, 0d
+Hair Tear Share 1     :milestone, crit, hts, 2023-01-31, 0d
+Hair Tear Share 2     :milestone, crit, hts, 2023-02-16, 0d
 Demo Day              :milestone, crit, dem, 2023-03-09, 0d
 
 section Mini Projects
@@ -194,11 +194,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 6.2 February 9
 
-- Due
-  - Hair Tear Share #2
-- Lecture
 - In-class
-  - Hair Tear Shares
   - Continue MP3: Game
 
 </details>
