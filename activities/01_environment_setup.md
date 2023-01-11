@@ -74,10 +74,9 @@ I don't remember (or use) extensions I've installed, which can lead to
 unexpected behavior and longer VS Code load times. I recommend just installing
 the few I have mentioned to start. Add only one at a time, only add ones you
 need, and uninstall any you do not use. If you're interested, I have compiled a
-(perhaps outdated) list of the extensions I use
-[here](/resources/vscode_extensions.md).
+(perhaps outdated) list of the extensions I use [here](/resources/vscode.md).
 
 ## Get started with your portfolio!
 
 Once you have done these things, follow the instructions for
-[mp0](/projects/mp0_portfolio/) to start building your portfolio website!
+[mp0](/assignments/mp0_setup.md) to start building your portfolio website!

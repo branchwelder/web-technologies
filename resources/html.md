@@ -6,18 +6,17 @@ documents designed to be displayed in a web browser[^wikipedia]. _HTML is a
 
 Breaking down the acronym[^newcode]:
 
-**HyperText** is simply the ability to jump from one document to another via
-links.
-
-**Markup** means that HTML specifies (marks up) content, i.e. it provides
-meaning. This is a very important point. HTML is not intended to specify how
-something looks; instead, it specifies what things are: a paragraph, a heading,
-a quotation, etc. The appearance of content is provided by CSS).
-
-**Language** A misnomer: HTML is not a language in the classical sense of
-programming languages, because it cannot create executable programs on its own.
-Do not put HTML on your resume under “Programming Languages” – any employer who
-knows his code will be able to tell that you are, at best, uninformed.
+> **HyperText** is simply the ability to jump from one document to another via
+> links.
+>
+> **Markup** means that HTML specifies (marks up) content, i.e. it provides
+> meaning. This is a very important point. HTML is not intended to specify how
+> something looks; instead, it specifies what things are: a paragraph, a
+> heading, a quotation, etc. The appearance of content is provided by CSS).
+>
+> **Language** is a misnomer: HTML is not a language in the classical sense of
+> programming languages, because it cannot create executable programs on its
+> own.
 
 ## Start Here
 

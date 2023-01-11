@@ -5,8 +5,6 @@ envisioning a desired result, such as a particular layout or animation, and then
 figuring out how to make it. Just reading lists of CSS rules won't be very
 informative until you have a reason to use them.
 
-- [CSS Features Overview](https://2022.stateofcss.com/en-US/features/)
-
 ## Start here
 
 - [Learn X in Y Minutes (CSS)](https://learnxinyminutes.com/docs/css/)
@@ -20,6 +18,7 @@ informative until you have a reason to use them.
 
 - [CSS selectors overview](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
 - [CSS cheat sheet](https://websitesetup.org/wp-content/uploads/2019/11/wsu-css-cheat-sheet-gdocs.pdf)
+- [CSS color reference](https://www.w3schools.com/cssref/css_colors.php)
 - [Media Queries for standard devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ## CSS Variables
@@ -42,6 +41,7 @@ informative until you have a reason to use them.
 
 ## Useful things
 
+- [CSS Features Overview](https://2022.stateofcss.com/en-US/features/)
 - [Box-sizing](https://www.w3schools.com/csS/css3_box-sizing.asp)
 - [Cubic bezier preview](https://cubic-bezier.com/#0,.76,1,.35)
 - [CSS Patterns Gallery](https://projects.verou.me/css3patterns/)

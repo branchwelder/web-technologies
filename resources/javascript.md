@@ -7,7 +7,7 @@ and pretty much everything else. [^mdn]
 ## Start Here
 
 [The MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-has a good intro to JavaScript Follow with
+has a good intro to JavaScript. Follow with
 [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview).
 
 ## Resources

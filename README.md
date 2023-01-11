@@ -5,13 +5,10 @@ content, which is organized as follows:
 
 - `activities/` contains instructions for in-class activities
 - `assignments/` contains instructions for each course assignment
-- `examples/` contains small examples and starter code for the mini projects
 - `resources/` contains lists of resources for your reference
 - `slides/` contains PDF versions of slides used in class
 
 Please also see [the syllabus](/syllabus.md) for a course overview.
-
----
 
 ## Coursework
 
@@ -70,23 +67,27 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 1.1 January 3: Welcome and Environment Setup
 
-- Lecture
-  - Welcome and course overview
+- Assignments
+  - Assigned: [MP0: Portfolio site setup](assignments/mp0_setup.md)
+- In class
   - [slides](slides/1.1.pdf)
-- In-class
-  - Activity: [Environment setup](activities/01_setup.md)
-- Assigned work
-  - [MP0: Portfolio site](assignments/mp0_setup.md)
+  - Welcome and course overview
+  - Intro survey (link on Canvas)
+  - Join the Discord (link on Canvas)
+  - Work Time: [Environment setup activity](activities/01_environment_setup.md)
+- After class
+  - Get your environments set up and work on MP0
 
 #### 1.2 January 5: HTML/CSS Intro
 
-- Lecture
-  - Git review: cloning a repo, editing content, pushing changes
-  - MP0 example walkthrough
-  - HTML/CSS, live demo
+- In class
   - [slides](slides/1.2.pdf)
-- In-class
-  - Continue working on [MP0: Portfolio](assignments/mp0_setup.md)
+  - Demo: Git review: cloning a repo, editing content, pushing changes
+  - Demo: MP0 Walkthrough
+  - Demo: HTML/CSS
+  - Work Time: MP0
+- After class
+  - Continue working on MP0
 
 </details>
 
@@ -94,31 +95,31 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.1 January 10: Javascript Intro
 
-<!-- TODO: Browser Extension Example -->
-<!-- TODO: JS Intro Slides -->
-<!-- TODO: JS Interaction example -->
-<!-- TODO: MP1 Writeup -->
-
-- Due
-  - MP0
+- Assignments
+  - Due: MP0
+  - Assigned: [MP1: Browser Extension](/assignments/mp1_extension.md)
 - In-class
   - [slides](slides/2.1.pdf)
-  - MP0 share
-  - JavaScript overview!
-  - Break
-  - Intro to the DOM
-  - Codepen Live demos!
-  - Lab time! [activity](/activities/02_js_and_the_dom.md)
-- Tonight: MP1 released: browser extension
+  - Share MP0
+  - JavaScript Intro
+  - Intro to the DOM - Codepen Live demos:
+    - [Creating and adding elements](https://codepen.io/branchwelder/pen/oNMZbrG)
+    - [Adding different kinds of event listeners](https://codepen.io/branchwelder/pen/abjJNmw)
+    - [Querying the DOM and randomizing colors](https://codepen.io/branchwelder/pen/vYayyOP)
+  - Work time: [JS and the DOM activity](/activities/02_js_and_the_dom.md)
+- After class
+  - Continue working on the activity, start MP1 if you would like
 
 #### 2.2 January 12
 
-<!-- TODO: Extension Slides -->
-
-- Lecture
-  - Browser Extensions overview, MP1 walkthrough
 - In-class
-  - Continue MP1: Browser Extension
+  - [slides](slides/2.2.pdf)
+  - Intro to browser extensions
+  - Demo: MP1 walkthrough
+  - Brainstorm MP1 ideas
+  - Work time: MP1
+- After class
+  - Work on MP1
 
 </details>
 
@@ -126,39 +127,33 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 3.1 January 17
 
-<!-- TODO: HTS writeup -->
-
-- Due
-  - Hair Tear Share #1
-- Lecture
-  - Dev Tools
-  - Debugging approaches
 - In-class
-  - Hair Tear Shares
-  - Continue MP1: Browser Extension
+  - Demo: Exploring Dev Tools
+  - Demo: Debugging approaches
+  - Work time: MP1
+- After class
+  - Work on MP1
 
 #### 3.2 January 19
 
-- Lecture
 - In-class
-  - Continue MP1: Browser Extension
+  - Lab time: Continue MP1
+- After class
+  - Work on MP1
 
 </details>
 
 <details><summary><h3>Week 4: Browser APIs</h3></summary>
 
-### Week 4
-
 #### 4.1 January 24
 
-- Due
-  - MP1 - Browser Extension
-- Lecture
-  - Intro to Browser APIS
+- Assignments
+  - Due: MP1
+  - Assigned: MP2
 - In-class
   - Share: MP1
-  - Activity:
-  - Begin MP2: Audio Visualizer
+  - Intro to Browser APIS
+  - Work time: Begin MP2: Audio Visualizer
 
 #### 4.2 January 26
 
@@ -170,8 +165,6 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 </details>
 
 <details><summary><h3>Week 5: Libraries and Frameworks</h3></summary>
-
-### Week 5
 
 #### 5.1 January 31
 
