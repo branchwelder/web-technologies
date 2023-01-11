@@ -94,11 +94,6 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.1 January 10: Javascript Intro
 
-<!-- TODO: Browser Extension Example -->
-<!-- TODO: JS Intro Slides -->
-<!-- TODO: JS Interaction example -->
-<!-- TODO: MP1 Writeup -->
-
 - Due
   - MP0
 - In-class
@@ -113,8 +108,6 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.2 January 12
 
-<!-- TODO: Extension Slides -->
-
 - Lecture
   - Browser Extensions overview, MP1 walkthrough
 - In-class
@@ -125,8 +118,6 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 <details><summary><h3>Week 3: Development Tools and Strategies</h3></summary>
 
 #### 3.1 January 17
-
-<!-- TODO: HTS writeup -->
 
 - Due
   - Hair Tear Share #1
