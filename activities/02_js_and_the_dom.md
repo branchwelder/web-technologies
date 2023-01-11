@@ -32,13 +32,18 @@ Start by playing around with them and modifying the code.
 Once you have a handle on what's going on, test your understanding by adding
 some JavaScript to your portfolio page. Begin by creating an `index.js` file in
 your top-level directory and importing it into your `index.html` page using a
-script tag. **Important:** Ensure that you put this at the very end of your
-`<body>` tag, after any content.
+script tag. **Important:** Ensure that you put this inside your body tag **after
+any content** `<body>` tag, after any content:
 
 In `index.html`:
 
 ```html
-<script src="index.js" defer></script>
+<html>
+  <body>
+    <!-- The rest of your page content here -->
+    <script src="index.js" defer></script>
+  </body>
+</html>
 ```
 
 In `index.js`:
@@ -56,12 +61,13 @@ Here are some ideas for what you could do:
 - Add
   [an image gallery ](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Image_gallery)
 - Programmatically create your page content instead of building the HTML by hand
+- Add links to your social media pages by creating an array of objects that
+  contain the URL, service name, and other information (e.g. a link to a logo to
+  display). Then, iterate through the array and append each one to your page.
+- Collaborate with other students in the class to create a
+  [webring](https://en.wikipedia.org/wiki/Webring)
 
 ## Resources that might be helpful
 
-- Read the
-  [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
-- Writing loops
-  [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
-- Go through javascript.info's
+- [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
   [JavaScript Fundamentals](https://javascript.info/first-steps) chapter
