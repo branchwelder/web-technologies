@@ -53,66 +53,53 @@ carefully!
 
 ## Instructions
 
+**IMPORTANT: Before following these instructions, ensure you have finished
+[setting up your environment](/activities/01_environment_setup.md).**
+
 We will be using Github pages to host our portfolio sites. Here I provide
 instructions to create and clone a repository, stage and commit changes, and
 push your work using VSCode's built-in source control interface. If you are
 already comfortable using the terminal, Github also provides a
 [quick overview](https://pages.github.com/) of how to get up and running.
 
-### Create a repository
+### Create a new repository from the template
 
-1. Head over to the GitHub website and create a new repository. Do this by
-   clicking the "plus" and selecting "New Repository".
+I have created a template portfolio to help you get started. To create a new
+repository from the template:
+
+1. Navigate to
+   [the repository page on GitHub](https://github.com/branchwelder/portfolio-skeleton),
+   click the big green button that says "Use this template", and select "Create
+   a new repository".
 2. On the repository creation page, name your repository `username.github.io`,
-   where username is your GitHub username. You can leave all of the settings as
-   default. **Ensure that your repository is set to Public**
+   where username is your GitHub username. **IMPORTANT**: ensure you enter
+   `username.github.io` into the box - don't just enter `.github.io`. You can
+   leave the rest of the settings as default.
 3. Click the "Create repository" button. You should be redirected to your new
-   empty repository.
+   repository.
 
 ### Clone it!
 
 If you are comfortable working with git from the command line, feel free to
 clone the repository that way (using `git clone repositoryname`).
 
-To instead do this from VSCode:
+Alternatively, you can clone your repo from VS Code's built-in source control
+interface:
 
-1. Hit `Control/Command-Shift-P` to open the command palette. Start typing
-   Git:Clone. The autocomplete option should show up quickly, use the arrow keys
-   to navigate to it and hit enter.
+1. In VS Code, hit `Control/Command-Shift-P` to open the command palette. Start
+   typing `git:Clone`. The autocomplete option should show up quickly, use the
+   arrow keys to navigate to it and hit enter.
 2. Select `Clone from GitHub`. Your available repositories should show up; it
    might take a second. You also might need to sign in with your Github
    credentials.
 3. In the dropdown menu, select the repository you just created and choose a
    location on your computer to clone it to.
-4. VSCode will ask you if you want to open the cloned repository. Select "Open
-   in new window". VSCode will open a new window. The "Explorer" tab in the
-   sidebar will be empty because we have not added any files to it yet.
-
-### Copy over the example site
-
-Copy the contents of the example site in this folder into your repository. You
-can do this by manually creating each file and directory (e.g. `index.html`) and
-copying and pasting in the example content. If this is too tedious, you can also
-download a zip file of the course repository by
-[navigating to the root directory](https://github.com/branchwelder/web-technologies),
-clicking the big green "Code" button, and selecting "Download ZIP". You can then
-drag the files into your repository folder.
-
-Once you have finished copying over the example, your folder structure should
-look like this:
-
-- `index.html` - your site's home (index) page
-- `index.css` - contains the styles for home page
-- `bio/` - folder containing the bio page
-  - `bio.html` - html for the bio page
-  - `bio.css` - styles for the bio page
-- `recipe/` - folder containing files for the recipe page
-  - `recipe.html` - html for the recipe page
-  - `recipe.css` - styles for the recipe page
+4. VS Code will ask you if you want to open the cloned repository. Select "Open
+   in new window". VSCode will open a new window.
 
 ### Viewing the example site
 
-To Assuming you have installed the VSCode Live Server extension, right click on
+Assuming you have installed the VSCode Live Server extension, right click on
 `index.html` in the explorer side bar and click "Open with Live Server". The
 page should open automatically in your browser. You can now edit the files
 containing your site code and your changes will immediately update the browser -
