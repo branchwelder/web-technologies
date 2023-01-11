@@ -48,22 +48,29 @@ shortcut, or turn on autosave (what I do). This is located in Settings pane
 
 ### Installing too many extensions
 
+If you install too many extensions, VS Code will take a long time to load. If
+you don't take time to understand what extensions you install do, you can also
+run into confusing behavior (e.g. extensions overriding each other's shortcuts,
+annoying auto-completion or auto-formatting). Only install extensions you
+understand and need, and uninstall any that you're not using. You can also
+disable ones that you want to keep installed but aren't relevant for your
+current work. For example, it is nice to keep Python extensions installed if you
+are also taking a class that uses Python, but you can disable them for your web
+development workspaces.
+
 ## Extensions
 
 There are endless possibilities for customizing VS Code. Here are some of the
 extensions I have installed! As a general rule, it's good to understand what an
 extension does before you install it. They all have _some_ documentation in the
-extension marketplace, which you should read before installation. If an
-extension is causing issues, you can disable it or uninstall it. It's also good
-to uninstall any extensions you're not using, otherwise they will continue to
-run in the background.
+extension marketplace, which you should read before installation.
 
 ### Web Development Essentials
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -
-  _Local development server inside VSCode_
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-- Prettier: _Code formatting for a bunch of web-related languages_
+  _Simple development server inside VSCode_
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
+  _Code formatting for a bunch of web-related languages_
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -
   _A linter for javascript_
 
@@ -85,9 +92,25 @@ run in the background.
 
 ### Theming and other stuff
 
-- Dracula: _currently my favorite color theme, I also like solarized dark_
+Some popuplar themes:
+
+- [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) -
+  _my long-time favorite_
+- [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode) -
+  _a nice-looking option_
+- Solarized Dark - _built into VS Code, used to be my previous go-to_
+- [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code) -
+  _Too low-contrast for me, but I use it for other applications_
+- [Gruvbox](https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox) -
+  _A fun retro feel_
+
+Icons:
+
 - vscode-icons: _nice icon set for filetypes in the built-in file explorer_
 - Fluent Icons: _some different icons for vscode features_
+
+Fun:
+
 - Discord Presence - _displays what you're doing in VSCode in the Discord
   sidebar_
 

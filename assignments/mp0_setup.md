@@ -1,4 +1,4 @@
-# MP0 - Portfolio page
+# MP0: Portfolio Setup
 
 For MP0, you will build a skeleton portfolio page and host it on Github pages.
 
