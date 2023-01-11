@@ -30,14 +30,3 @@ My current command:
 ```sh
 pandoc -t revealjs -s input.md -o output.html -V transition=none -V center=false --css=slides.css
 ```
-
-<!-- ## Converting Markdown to Slide Decks
-
-Pandoc has a few options for converting markdown to slides. I tried all of them
-and found the [reveal.js]() approach to work best.
-
-### Gotchas
-
-I found that apt had a woefully outdated version of Pandoc, which meant that
-support for reveal.js V4 didn't exist. I didn't realize this for a while and was
-very frustrated because my slides were not generating correctly. -->
