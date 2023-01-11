@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>JavaScript and the DOM</title>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/reveal.js@^4//dist/reset.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/reveal.js@^4//dist/reveal.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/reveal.js@^4//dist/theme/black.css"
+      id="theme"
+    />
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section><h1>JavaScript and the DOM</h1></section>
+        <section>
+          <section>
+            <h1>Logistics</h1>
+          </section>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ## Slide 1
+            A paragraph with some text and a [link](https://hakim.se).
+            ---
+            ## Slide 2
+            ---
+            ## Slide 3
+          </textarea>
+        </section>
+      </div>
+    </div>
+    <script src="https://unpkg.com/reveal.js@^4//dist/reveal.js"></script>
+
+    <!-- reveal.js plugins -->
+    <script src="https://unpkg.com/reveal.js@^4//plugin/notes/notes.js"></script>
+    <script src="https://unpkg.com/reveal.js@^4//plugin/markdown/markdown.js"></script>
+    <script src="https://unpkg.com/reveal.js@^4//plugin/search/search.js"></script>
+    <script src="https://unpkg.com/reveal.js@^4//plugin/zoom/zoom.js"></script>
+    <script>
+      Reveal.initialize({
+        plugins: [RevealMarkdown],
+      });
+    </script>
+  </body>
+</html>
