@@ -74,9 +74,9 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Welcome and course overview
   - [slides](slides/1.1.pdf)
 - In-class
-  - Activity: [Environment setup](activities/01_intro.md)
+  - Activity: [Environment setup](activities/01_setup.md)
 - Assigned work
-  - [MP0: Portfolio site](projects/mp0_portfolio.md)
+  - [MP0: Portfolio site](assignments/mp0_setup.md)
 
 #### 1.2 January 5: HTML/CSS Intro
 
@@ -86,13 +86,18 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - HTML/CSS, live demo
   - [slides](slides/1.2.pdf)
 - In-class
-  - Continue working on [MP0: Portfolio](assignments/mp0_portfolio.md)
+  - Continue working on [MP0: Portfolio](assignments/mp0_setup.md)
 
 </details>
 
 <details><summary><h3>Week 2: The DOM, Javascript, and Web Extensions</h3></summary>
 
 #### 2.1 January 10: Javascript Intro
+
+<!-- TODO: Browser Extension Example -->
+<!-- TODO: JS Intro Slides -->
+<!-- TODO: JS Interaction example -->
+<!-- TODO: MP1 Writeup -->
 
 - Due
   - MP0
@@ -108,6 +113,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 2.2 January 12
 
+<!-- TODO: Extension Slides -->
+
 - Lecture
   - Browser Extensions overview, MP1 walkthrough
 - In-class
@@ -118,6 +125,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 <details><summary><h3>Week 3: Development Tools and Strategies</h3></summary>
 
 #### 3.1 January 17
+
+<!-- TODO: HTS writeup -->
 
 - Due
   - Hair Tear Share #1
