@@ -1,0 +1,296 @@
+@import url("https://rsms.me/inter/inter.css");
+
+.blue-hour {
+  --black: #20344c;
+  --white: #faead6;
+  --pink: #de7895;
+  --red: #f75060;
+  --orange: #f7885f;
+  --yellow: #f2c469;
+  --green: #b1d36f;
+  --cyan: #3ee0cf;
+  --blue: #0091c2;
+  --purple: #ad6dca;
+}
+
+.nord {
+  --black: #2e3440;
+  --white: #eceff4;
+  --pink: #e892b2;
+  --red: #bf616a;
+  --orange: #d08770;
+  --yellow: #ebcb8b;
+  --green: #a3be8c;
+  --cyan: #88c0d0;
+  --blue: #5e81ac;
+  --purple: #b48ead;
+}
+
+.dracula {
+  --background: #282a36;
+  --foreground: #f8f8f2;
+  --selection: #44475a;
+  --comment: #6272a4;
+  --red: #ff5555;
+  --orange: #ffb86c;
+  --yellow: #f1fa8c;
+  --green: #50fa7b;
+  --cyan: #8be9fd;
+  --purple: #bd93f9;
+  --pink: #ff79c6;
+}
+
+:root {
+  --slideBackground: #202129;
+  --background: #282a36;
+  --foreground: #f8f8f2;
+  --selection: #44475a;
+  --comment: #6272a4;
+  --red: #ff5555;
+  --orange: #ffb86c;
+  --yellow: #f1fa8c;
+  --green: #50fa7b;
+  --cyan: #8be9fd;
+  --purple: #bd93f9;
+  --pink: #ff79c6;
+  /* SYNTAX HIGHLIGHTING DEFINITIONS */
+  --builtin: var(--cyan);
+  --function: var(--green);
+  --function-name: var(--green);
+  --import: var(--pink);
+  --params: var(--orange);
+  --documentation: var(--red);
+  --decorators: var(--green);
+  --decVal: var(--purple);
+  --keyword: var(--pink);
+  --string: var(--yellow);
+  --specialCharacter: var(--pink);
+  --controlFlow: var(--pink);
+  --error: var(--red);
+  /* --mainfont: "Inter", sans-serif; */
+  --r-background-color: var(--slideBackground);
+  --r-main-font: sans-serif;
+  --r-main-font-size: 36px;
+  --r-main-color: var(--foreground);
+  --r-block-margin: 20px;
+  --r-heading-margin: 0 0 20px 0;
+  --r-heading-font: "Inter", sans-serif;
+  --r-heading-color: var(--foreground);
+  --r-heading-line-height: 1.2;
+  --r-heading-letter-spacing: normal;
+  --r-heading-text-transform: uppercase;
+  /* --r-heading-text-shadow: none; */
+  --r-heading-font-weight: 900;
+  /* --r-heading1-text-shadow: none;
+  --r-heading1-size: 2.5em;
+  --r-heading2-size: 1.6em;
+  --r-heading3-size: 1.3em;
+  --r-heading4-size: 1em; */
+  /* --r-code-font: monospace; */
+  --r-link-color: var(--cyan);
+  --r-link-color-dark: var(--blue);
+  --r-link-color-hover: var(--green);
+  --r-selection-background-color: var(--pink);
+  --r-selection-color: var(--white);
+}
+
+.ref {
+  font-size: 1rem;
+}
+
+blockquote {
+  font-size: 1.5rem;
+}
+
+pre > code {
+  background-color: var(--background);
+  padding: 20px !important;
+}
+
+h2 {
+  margin-bottom: 5rem;
+}
+
+em {
+  color: var(--yellow);
+}
+
+p {
+  margin: var(--r-block-margin) !important;
+}
+
+p > code {
+  color: var(--green);
+}
+
+.small-label {
+  text-align: left;
+  font-family: monospace;
+  font-style: italic;
+}
+
+a[href] {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+/* Alert */
+code span.al {
+  color: var(--error);
+  font-weight: bold;
+}
+
+/* Annotation */
+code span.an {
+  color: var(--cyan);
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Attribute */
+code span.at {
+  color: var(--green);
+}
+
+/* BaseN */
+code span.bn {
+  color: var(--green);
+}
+
+/* BuiltIn */
+code span.bu {
+  color: var(--builtin);
+  font-style: italic;
+}
+
+/* ControlFlow */
+code span.cf {
+  color: var(--controlFlow);
+  font-weight: bold;
+}
+
+/* Char */
+code span.ch {
+  color: var(--cyan);
+}
+
+/* Constant */
+code span.cn {
+  color: var(--orange);
+}
+
+/* Comment */
+code span.co {
+  color: var(--comment);
+  font-style: italic;
+}
+
+/* CommentVar */
+code span.cv {
+  color: var(--comment);
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Documentation */
+code span.do {
+  color: var(--documentation);
+  font-style: italic;
+}
+
+/* DataType */
+code span.dt {
+  color: var(--foreground);
+}
+
+/* DecVal */
+code span.dv {
+  color: var(--decVal);
+}
+
+/* Error */
+code span.er {
+  color: var(--green);
+  font-weight: bold;
+}
+
+/* Extension */
+code span.ex {
+}
+
+/* Float */
+code span.fl {
+  color: var(--decVal);
+}
+
+/* Function */
+code span.fu {
+  color: var(--function);
+}
+
+/* Import */
+code span.im {
+  color: var(--import);
+  font-weight: bold;
+}
+
+/* Information */
+code span.in {
+  color: var(--cyan);
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Keyword */
+code span.kw {
+  color: var(--keyword);
+  font-weight: bold;
+}
+
+/* Operator */
+code span.op {
+  color: var(--foreground);
+}
+
+/* Other */
+code span.ot {
+  color: var(--green);
+  font-style: italic;
+}
+
+/* Preprocessor */
+code span.pp {
+  color: var(--orange);
+}
+
+/* SpecialChar */
+code span.sc {
+  color: var(--specialCharacter);
+}
+
+/* SpecialString */
+code span.ss {
+  color: var(--string);
+}
+
+/* String */
+code span.st {
+  color: var(--string);
+}
+
+/* Variable */
+code span.va {
+  color: var(--purple);
+}
+
+/* VerbatimString */
+code span.vs {
+  color: var(--string);
+}
+
+/* Warning */
+code span.wa {
+  color: var(--orange);
+  font-weight: bold;
+  font-style: italic;
+}

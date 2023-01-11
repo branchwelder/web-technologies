@@ -66,6 +66,7 @@ Here are some ideas for what you could do:
   display). Then, iterate through the array and append each one to your page.
 - Collaborate with other students in the class to create a
   [webring](https://en.wikipedia.org/wiki/Webring)
+- Add a button that displays a random joke, riddle, or fun fact
 
 ## Resources that might be helpful
 

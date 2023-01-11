@@ -101,12 +101,15 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 - Due
   - MP0
-- Lecture
-  - JavaScript Intro
 - In-class
+  - [slides](slides/2.1.pdf)
   - MP0 share
-  - Activity: Adding interaction to your portfolio with JavaScript
-  - Begin MP1: Browser Extension
+  - JavaScript overview!
+  - Break
+  - Intro to the DOM
+  - Codepen Live demos!
+  - Lab time! [activity](/activities/02_js_and_the_dom.md)
+- Tonight: MP1 released: browser extension
 
 #### 2.2 January 12
 
