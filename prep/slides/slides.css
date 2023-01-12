@@ -94,8 +94,44 @@
   --r-selection-color: var(--white);
 }
 
+code {
+  color: var(--cyan);
+}
+
+.big-emph {
+  font-weight: 900;
+  color: var(--pink);
+}
+
+.pink {
+  color: var(--pink);
+}
+
+.red {
+  color: var(--red);
+}
+
+.green {
+  color: var(--green);
+}
+
 .ref {
   font-size: 1rem;
+}
+
+.indent {
+  margin-left: 1rem;
+  font-size: smaller;
+}
+
+.left {
+  text-align: left;
+}
+
+.twocol {
+  display: flex;
+  font-size: 1.8rem;
+  justify-content: space-around;
 }
 
 blockquote {
