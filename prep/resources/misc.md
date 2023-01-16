@@ -19,11 +19,6 @@ in the future.
 - [Intro to the web audio API](https://egghead.io/lessons/javascript-intro-to-the-web-audio-api)
   by Keith Peters
 
-## The Command Line
-
-- [Command Line Crash Course](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line)
-- Game: [Terminal Town](http://www.andymakes.com/?p=terminaltown) (Mac only)
-
 ## Accessibility on the Web
 
 Start with this MDN Docs
