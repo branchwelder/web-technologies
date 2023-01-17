@@ -128,9 +128,11 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 3.1 January 17
 
 - In-class
-  - Demo: Exploring Dev Tools
-  - Demo: Debugging approaches
-  - Work time: MP1
+  - [slides](slides/3.1.pdf)
+  - More on functions in JavaScript
+  - Demo example: Message passing
+  - Activity: Make extension work groups
+  - Work time
 - After class
   - Work on MP1
 
