@@ -123,7 +123,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 3: Development Tools and Strategies</h3></summary>
+<details><summary><h3>Week 3: JavaScript Part Two</h3></summary>
 
 #### 3.1 January 17
 
@@ -139,7 +139,12 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 3.2 January 19
 
 - In-class
-  - Lab time: Continue MP1
+  - [slides](slides/3.2_async.pdf)
+  - Check-in [survey](https://forms.gle/4P5cVzejdHEeiNco6)
+  - How to turn in MP1
+  - Scope and async/await
+  - Async walkthrough demo
+  - Work time!
 - After class
   - Work on MP1
 
@@ -154,6 +159,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Assigned: MP2
 - In-class
   - Share: MP1
+  - Review JavaScript objects
   - Intro to Browser APIS
   - Work time: Begin MP2: Audio Visualizer
 
