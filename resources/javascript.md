@@ -4,19 +4,21 @@
 you to create dynamically updating content, control multimedia, animate images,
 and pretty much everything else. [^mdn]
 
-## Start Here
+## Essentials
 
-[The MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-has a good intro to JavaScript. Follow with
-[JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview).
-[CodeAcademy Cheatsheets](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+- [The Modern JavaScript Tutorial](https://javascript.info/) - a
+  nicely-structured and comprehensive tutorial. I still reference this all the
+  time.
+- [The MDN Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  has a good intro to JavaScript. Follow with
+  [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview).
+- [CodeAcademy Cheatsheets](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+  are brief explanations of core concepts.
 
-## Resources
+## Tutorials and overviews
 
 - [Learn X in Y Minutes (JS)](https://learnxinyminutes.com/docs/javascript/) - a
   quick overview of the language all on one page
-- [The Modern JavaScript Tutorial](https://javascript.info/) - a
-  nicely-structured in-depth tutorial
 - [JavaScript The Right Way](http://jstherightway.org/)- a guide intended to
   introduce new developers to JavaScript and help experienced developers learn
   more about its best practices.
@@ -41,6 +43,7 @@ See also [this list](https://jsbooks.revolunet.com/) of free JavaScript books.
 
 - [Common Javascript questions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto)
 - [Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
+- [Introducing Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
 
 ## Playgrounds
 
