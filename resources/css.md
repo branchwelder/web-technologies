@@ -28,6 +28,7 @@ informative until you have a reason to use them.
 
 ## Transitions
 
+- [Great tutorial on CSS transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Gallery of simple CSS transitions](https://projects.verou.me/animatable/)
 
 ## Layout
