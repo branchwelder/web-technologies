@@ -29,6 +29,7 @@ The basic Git workflow goes something like this[^workflow]:
 
 ## Tutorials
 
+- [Git and Github for Poets (Coding Train)](https://www.youtube.com/watch?v=BCQHnlnPusY)
 - [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - [Creating a repository](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 

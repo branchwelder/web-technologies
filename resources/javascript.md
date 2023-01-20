@@ -17,6 +17,8 @@ and pretty much everything else. [^mdn]
 
 ## Tutorials and overviews
 
+- [JavaScript for Cats](http://jsforcats.com/)
+- [JavaScript Basics (P5.js)](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 - [Learn X in Y Minutes (JS)](https://learnxinyminutes.com/docs/javascript/) - a
   quick overview of the language all on one page
 - [JavaScript The Right Way](http://jstherightway.org/)- a guide intended to
@@ -41,6 +43,7 @@ See also [this list](https://jsbooks.revolunet.com/) of free JavaScript books.
 
 ## Quirks and FAQs
 
+- [let vs var (Coding Train Video)](https://www.youtube.com/watch?v=q8SHaDQdul0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - [Common Javascript questions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Howto)
 - [Scoping and Hoisting](http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html)
 - [Introducing Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)

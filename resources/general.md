@@ -42,6 +42,7 @@ CodePen and JSFiddle seem to be the most popular from my anecdotal experience.
 
 ## Full Courses
 
+- [Start Learning Here! (The Coding Train Playlist)](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 - [The Odin Project](https://www.theodinproject.com/) is a fantastic open-source
   curriculum for learning web development
 - [egghead.io](https://egghead.io/) has a ton of condensed video courses on a
