@@ -150,7 +150,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 4: Browser APIs</h3></summary>
+<details><summary><h3>Week 4: P5 intro and CSS Layouts</h3></summary>
 
 #### 4.1 January 24
 
@@ -158,34 +158,34 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Due: MP1
   - Assigned: MP2
 - In-class
-  - Share: MP1
-  - Review JavaScript objects
-  - Intro to Browser APIS
-  - Work time: Begin MP2: Audio Visualizer
+  - [slides](slides/4.1_p5.pdf)
+  - Share back MP1!
+  - Break
+  - Introducing MP2 - Creative code!
+  - Work time - get started on MP2
 
 #### 4.2 January 26
 
-- Lecture
-  - SVG
 - In-class
-  - Continue MP2: Audio Visualizer
+  - Laying out your page with CSS
+  - Activity: CSS Layouts, building your gallery page
+- Continue MP2: Audio Visualizer
 
 </details>
 
-<details><summary><h3>Week 5: Libraries and Frameworks</h3></summary>
+<details><summary><h3>Week 5: Components and Frameworks</h3></summary>
 
 #### 5.1 January 31
 
-- Lecture
-  - Web Components: htmlElement, React, and Lit
 - In-class
-  - Continue MP2: Audio Visualizer
+  - Web Components: htmlElement, React, and Lit
+  - Work time: continue MP2
 
 #### 5.2 February 2
 
 - Lecture
 - In-class
-  - Continue MP2: Audio Visualizer
+  - Continue MP2
 
 </details>
 
@@ -194,7 +194,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 6.1 February 7
 
 - Due
-  - MP2 - Audio Visualizer
+  - MP2
 - Lecture
 - In-class
   - Share-back: MP2: Audio Visualizer
