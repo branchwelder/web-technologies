@@ -18,6 +18,7 @@ and pretty much everything else. [^mdn]
 ## Tutorials and overviews
 
 - [JavaScript for Cats](http://jsforcats.com/)
+- [JavaScript CheatSheet](https://htmlcheatsheet.com/js/)
 - [JavaScript Basics (P5.js)](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 - [Learn X in Y Minutes (JS)](https://learnxinyminutes.com/docs/javascript/) - a
   quick overview of the language all on one page
