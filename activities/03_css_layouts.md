@@ -26,8 +26,11 @@ resemble something like [this](https://p5-demos.glitch.me/) or
 
 ## Resources
 
-- As usual, the
-  [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+- [Grid tile layouts](https://mastery.games/post/tile-layouts/) blog post
+- As usual, the MDN Docs:
+  [flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+  and
+  [Basic flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 - [A complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   and
   [A complete guide to grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
