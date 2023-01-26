@@ -167,9 +167,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 4.2 January 26
 
 - In-class
-  - Laying out your page with CSS
-  - Activity: CSS Layouts, building your gallery page
-- Continue MP2: Audio Visualizer
+  - [slides](slides/4.2_flex_and_grid.pdf)
+  - CSS Flex and Grid
+  - Example walkthroughs
+  - Break
+  - Work time: [CSS Layouts](activities/03_css_layouts.md) for building your MP2
+    gallery page!
+- After class
+  - Keep working on MP2
 
 </details>
 
