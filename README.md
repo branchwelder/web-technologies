@@ -8,7 +8,8 @@ content, which is organized as follows:
 - `resources/` contains lists of resources for your reference
 - `slides/` contains PDF versions of slides used in class
 
-Please also see [the syllabus](/syllabus.md) for a course overview.
+If you are a student in HCDE 438, please also see the syllabus (on Canvas) for a
+course overview.
 
 ## Coursework
 
@@ -17,8 +18,9 @@ technologies. Instead of problem sets and quizzes in which their work will be
 lost to time, students will "just build websites"[^justbuildwebsites]. We will
 begin by setting up a portfolio website, which will grow over the quarter to
 document projects done for the course. As a result, any work done for this
-course will be publicly visible. Coursework comprises mini projects, a final
-project, and development reflections ("hair tear shares").
+course will be publicly visible. By the end of the course, students will have
+produced a browser extension, an audio visualizer, a game, and a final project,
+all of which will be included in their final portfolio submission.
 
 ```mermaid
 %%{
@@ -44,11 +46,6 @@ section Continuous
 Portfolio             :active,          prf, 2023-01-03, 2023-03-17
 Peer Teaching         :active,          pte, 2023-01-03, 2023-03-17
 
-section Shares
-Hair Tear Share 1     :milestone, crit, hts, 2023-01-31, 0d
-Hair Tear Share 2     :milestone, crit, hts, 2023-02-16, 0d
-Demo Day              :milestone, crit, dem, 2023-03-09, 0d
-
 section Mini Projects
 Setup                 :active,          mp0, 2023-01-03, 2023-01-10
 Browser Extension     :                 mp1, 2023-01-10, 2023-01-24
@@ -58,6 +55,7 @@ Game                  :                 mp3, 2023-02-07, 2023-02-21
 section Final Project
 Proposal              :                 fp0, 2023-02-16, 2023-02-23
 MVP                   :                 fp1, 2023-02-23, 2023-03-02
+Demo Day              :milestone, crit, dem, 2023-03-09, 0d
 Final version         :                 fp2, 2023-03-02, 2023-03-17
 ```
 
@@ -110,7 +108,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - After class
   - Continue working on the activity, start MP1 if you would like
 
-#### 2.2 January 12
+#### 2.2 January 12 Browser Extensions
 
 - In-class
   - [slides](slides/2.2.pdf)
@@ -125,7 +123,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 <details><summary><h3>Week 3: JavaScript Part Two</h3></summary>
 
-#### 3.1 January 17
+#### 3.1 January 17 Functions
 
 - In-class
   - [slides](slides/3.1.pdf)
@@ -136,7 +134,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - After class
   - Work on MP1
 
-#### 3.2 January 19
+#### 3.2 January 19 Async/Await
 
 - In-class
   - [slides](slides/3.2_async.pdf)
@@ -152,7 +150,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 <details><summary><h3>Week 4: P5 intro and CSS Layouts</h3></summary>
 
-#### 4.1 January 24
+#### 4.1 January 24 P5 Intro
 
 - Assignments
   - Due: MP1
@@ -164,7 +162,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Introducing MP2 - Creative code!
   - Work time - get started on MP2
 
-#### 4.2 January 26
+#### 4.2 January 26 CSS Layouts
 
 - In-class
   - [slides](slides/4.2_flex_and_grid.pdf)
@@ -178,41 +176,45 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 5: Components and Frameworks</h3></summary>
+<details><summary><h3>Week 5: Templates and Components</h3></summary>
 
-#### 5.1 January 31
+#### 5.1 January 31 Templates
 
 - In-class
-  - Web Components: htmlElement, React, and Lit
+  - Templating with `lit-html`
+  - Demo
+  - Activity: Templates
   - Work time: continue MP2
 
-#### 5.2 February 2
+#### 5.2 February 2 Web Components
 
-- Lecture
 - In-class
-  - Continue MP2
+  - Web components
+  - Work time: Continue MP2
 
 </details>
 
-<details><summary><h3>Week 6: Games and Interactivity</h3></summary>
+<details><summary><h3>Week 6: Games!</h3></summary>
 
-#### 6.1 February 7
+#### 6.1 February 7 Objects Review
 
 - Due
   - MP2
-- Lecture
 - In-class
   - Share-back: MP2: Audio Visualizer
+  - MP3 brainstorming
+  - Activity: Objects review
   - Begin MP3: Game
 
-#### 6.2 February 9
+#### 6.2 February 9 Managing state
 
 - In-class
+  - Managing state
   - Continue MP3: Game
 
 </details>
 
-<details><summary><h3>Week 7: Mobile</h3></summary>
+<details><summary><h3>Week 7: Libraries</h3></summary>
 
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
@@ -221,7 +223,6 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 7.2 February 16
 
-- Lecture
 - In-class
   - Continue MP3: Game
 
@@ -232,19 +233,18 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 8.1 February 21
 
 - Due
-  - MP3 - Game
-- Lecture
-  - Planning your projects
+  - MP3 - Game!
 - In-class
   - MP3 Share
+  - Final Project Brainstorming
+  - Planning your projects
 
 #### 8.2 February 23
 
 - **DUE: FP0 - Final Project Proposal**
-- Lecture
-  - TBD
 - In-class
   - FP0 Share
+  - TBD Special topics
   - Project work time
 
 </details>
@@ -253,16 +253,13 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 9.1 February 28
 
-- Lecture
-  - TBD
 - In-class
+  - TBD special topics
   - Project work time
 
 #### 9.2 March 2
 
 - **DUE: FP1 - MVP**
-- Lecture
-  - TBD
 - In-class
   - Project work time
 
@@ -270,18 +267,15 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 <details><summary><h3>Week 10: Project wrap-up and Demos!</h3></summary>
 
-#### 10.1 March 7
+#### 10.1 March 7 Work time!
 
-- Lecture
-  - TBD
 - In-class
   - Project work time
 
-#### 10.2 March 9
+#### 10.2 March 9 Demo day!
 
-- Lecture
-  - Wrap-up, looking forward
 - In-class
+  - Wrap-up, looking forward
   - Final Projects demo day and fun!
 
 </details>
