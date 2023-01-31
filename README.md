@@ -184,7 +184,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - [slides](slides/5.1_portfolio_accessibility.pdf)
   - Announcements
   - Final Portfolio and accessibility
-  - Work time: Consider current portfolio accessibility
+  - Activity: [Portfolio accessibility prompts](activities/04_accessibility.md)
   - Work time: Continue MP2
 
 #### 5.2 February 2 Web Components
