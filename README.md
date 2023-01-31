@@ -178,17 +178,21 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 <details><summary><h3>Week 5: Templates and Components</h3></summary>
 
-#### 5.1 January 31 Templates
+#### 5.1 January 31 Portfolio Axxessibility
+
+- In-class
+  - [slides](slides/5.1_portfolio_accessibility.pdf)
+  - Announcements
+  - Final Portfolio and accessibility
+  - Work time: Consider current portfolio accessibility
+  - Work time: Continue MP2
+
+#### 5.2 February 2 Web Components
 
 - In-class
   - Templating with `lit-html`
   - Demo
   - Activity: Templates
-  - Work time: continue MP2
-
-#### 5.2 February 2 Web Components
-
-- In-class
   - Web components
   - Work time: Continue MP2
 
