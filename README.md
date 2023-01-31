@@ -178,7 +178,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 <details><summary><h3>Week 5: Templates and Components</h3></summary>
 
-#### 5.1 January 31 Portfolio Axxessibility
+#### 5.1 January 31 Portfolio Accessibility
 
 - In-class
   - [slides](slides/5.1_portfolio_accessibility.pdf)
