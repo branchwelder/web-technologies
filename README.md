@@ -190,7 +190,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 5.2 February 2 Objects Review
 
 - In-class
-  - [slides](slides/5.2_objects.pdf)
+  - [slides](slides/5.2_objects_sound.pdf)
   - Objects Review
   - Activity: [Objects review](activities/05_objects.md)
   - Demo: Interactive audio
