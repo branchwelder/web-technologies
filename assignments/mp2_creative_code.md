@@ -119,7 +119,11 @@ _Examples:_
 - [Tickle Jitter](https://p5js.org/examples/interaction-tickle.html)
 - [Kaleidoscope drawing tool](https://p5js.org/examples/interaction-kaleidoscope.html)
 
-**Sketch Five: Audio**
+**Sketch Five: Audio** This sketch should output some audio. Keep in mind that
+most browsers require some user interaction with the page (e.g. a click) before
+they play audio. See
+[this post](https://creative-coding.decontextualize.com/synthesizing-analyzing-sound/)
+for a comprehensive introduction to P5.sound.
 
 _Examples:_
 
@@ -131,11 +135,14 @@ _Examples:_
 - [Overlapping sound from file](https://p5js.org/examples/sound-play-mode.html)
 - [Measuring sound amplitude](https://p5js.org/examples/sound-measuring-amplitude.html)
 
-**Sketch Six: Audio and Visuals** Must create a sound _and_ a graphic based on
-some user input. What the input events are are up to you.
+**Sketch Six: Audio and Visuals** Must create (or analyze) a sound _and_ produce
+visuals based on some user input. What the input events are are up to you - it
+could be someone talking into a microphone, tapping on the keyboard, or clicking
+and dragging with the mouse.
 
 _Examples:_
 
+- [Falling keys (by hannah)](https://editor.p5js.org/branchwelder/sketches/cOrvIAY1O)
 - [Light-up keyboard](https://p5js.org/examples/hello-p5-song.html)
 - [Circle radius responds to loudness](https://glitch.com/edit/#!/dfpi-audio-mic?path=sketch.js) -
   _uses the microphone as input_

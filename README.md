@@ -176,7 +176,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 5: Templates and Components</h3></summary>
+<details><summary><h3>Week 5: </h3></summary>
 
 #### 5.1 January 31 Portfolio Accessibility
 
@@ -187,14 +187,16 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - Activity: [Portfolio accessibility prompts](activities/04_accessibility.md)
   - Work time: Continue MP2
 
-#### 5.2 February 2 Web Components
+#### 5.2 February 2 Objects Review
 
 - In-class
-  - Templating with `lit-html`
-  - Demo
-  - Activity: Templates
-  - Web components
+  - [slides](slides/5.2_objects.pdf)
+  - Objects Review
+  - Activity: [Objects review](activities/05_objects.md)
+  - Demo: Interactive audio
   - Work time: Continue MP2
+- After class
+  - Finish MP2!
 
 </details>
 
