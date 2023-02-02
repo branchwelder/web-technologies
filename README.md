@@ -176,7 +176,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 5: </h3></summary>
+<details><summary><h3>Week 5: Accessibility and Objects</h3></summary>
 
 #### 5.1 January 31 Portfolio Accessibility
 

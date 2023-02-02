@@ -127,6 +127,7 @@ for a comprehensive introduction to P5.sound.
 
 _Examples:_
 
+- [play midi notes on click](https://editor.p5js.org/branchwelder/sketches/oIGMXbJp5)
 - [Loading an mp3](https://p5js.org/examples/sound-load-and-play-sound.html)
 - [Play a sound effect](https://p5js.org/examples/sound-sound-effect.html)
 - [Generating a tone](https://glitch.com/edit/#!/tone-example-tap?path=sketch.js)
@@ -142,7 +143,8 @@ and dragging with the mouse.
 
 _Examples:_
 
-- [Falling keys (by hannah)](https://editor.p5js.org/branchwelder/sketches/cOrvIAY1O)
+- [rainbow keyboard](https://editor.p5js.org/branchwelder/sketches/YbgZ19uns)
+- [Raining notes](https://editor.p5js.org/branchwelder/sketches/cOrvIAY1O)
 - [Light-up keyboard](https://p5js.org/examples/hello-p5-song.html)
 - [Circle radius responds to loudness](https://glitch.com/edit/#!/dfpi-audio-mic?path=sketch.js) -
   _uses the microphone as input_
