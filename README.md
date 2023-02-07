@@ -200,29 +200,35 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 6: Libraries and local development </h3></summary>
+<details><summary><h3>Week 6: Package managers, building, and deploying </h3></summary>
 
-#### 6.1 February 7 Objects Review
+#### 6.1 February 7 Setting up a dev toolchain
 
 - Due
   - MP2
 - In-class
   - [slides](slides/6.1_dev_toolchain.pdf)
-  - Share-back: MP2: Audio Visualizer
+  - Share-back: MP2: Creative coding
   - put links to your gallery in
     [this google sheet](https://docs.google.com/spreadsheets/d/14LjYYlbOY524lPOKtt1Rvq2j5QLzFhkfwSUaie53wwg/edit?usp=sharing)
   - Break and install Node
   - Activity and demo: [dev toolchain setup](/activities/06_toolchain.md)
+- Until next class
+  - Think about which libraries you would like to use for MP3 for a game or data
+    viz
+  - I will check in with you next class on MP3
 
-#### 6.2 February 9 Managing state
+#### 6.2 February 9
 
 - In-class
-  - Managing state
+  - In-class demo: a game with p5
+  - MP3 Check-ins
+  - Create MP3 work groups
   - Continue MP3
 
 </details>
 
-<details><summary><h3>Week 7: Libraries</h3></summary>
+<details><summary><h3>Week 7</h3></summary>
 
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
@@ -231,17 +237,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 7.2 February 16
 
-- In-class
-  - Continue MP3: Game
-
 </details>
 
-<details><summary><h3>Week 8: The Full Stack</h3></summary>
+<details><summary><h3>Week 8</h3></summary>
 
 #### 8.1 February 21
 
 - Due
-  - MP3 - Game!
+  - MP3
 - In-class
   - MP3 Share
   - Final Project Brainstorming

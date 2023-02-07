@@ -166,13 +166,39 @@ together nicely.
    _bundled_ into one file. This folder now contains the built version of your
    site.
 
+## Pushing your changes to Github
+
+OK - we've bundled our site! However, we have not yet pushed our changes to our
+main branch Github. But wait! There is a **VERY IMPORTANT** thing we have to do
+first. We need to tell git to **ignore** certain files. Specifically, we do not
+want to push the contents of our `node_modules` folder or our `dist` folder to
+our main branch. We're recording what dependencies to install in our
+`package.json`, so there's no point in pushing another copy of that code to
+Github.
+
+1. Create a file named `.gitignore`. This is the file that tells git what things
+   it should ignore
+2. Inside `.gitignore`, add two lines:
+
+   ```
+   node_modules/
+   dist/
+   ```
+
+3. Now, track your changes with git: `git add --all`. You should **NOT** see
+   your `node_modules` or `dist` folders in the list of changed files. If you
+   do, you should double check that you made your `.gitignore` correctly.
+4. Commit them: `git commit -m "deployed my site"`
+5. And push: `git push`
+
+Now, you should see all of your changes in your main branch!
+
 ## Deploying to Github Pages
 
-Previously, we have just been able to push our changes in order to update our
-Github pages site. That works when all of the code our site needs is included in
-our repository. However, now that we have additional dependencies, we need to
-figure out how to push the code from the dependencies as well. We can still use
-Github pages, though! But we're going to make a few tweaks to our toolchain.
+Now, lets use Github pages to deploy our site! Previously, we were able to just
+make a Github pages site from the code pushed to our main branch. However, now
+we want to make our site from the code we bundled using Rollup! We can use a
+handy package to do this:
 
 1. Install the `gh-pages` package: `npm install gh-pages --save-dev`
 2. Add a `deploy` script to your `package.json`, under the `scripts` section:
@@ -192,30 +218,3 @@ Your site should soon be live! You might have to wait a few minutes for Github's
 deployment checks to pass. You will be able to view it at
 `<username.github.io>/<repositoryname>`. For me, this looks like
 `branchwelder.github.io/dev-toolchain-example/`.
-
-## Pushing your changes to Github
-
-OK - we've deployed our site to the gh-pages branch! However, we have not yet
-pushed our changes to our main branch Github. But wait! There is a **VERY
-IMPORTANT** thing we have to do first. We need to tell git to **ignore** certain
-files. Specifically, we do not want to push the contents of our `node_modules`
-folder or our `dist` folder to our main branch. We're recording what
-dependencies to install in our `package.json`, so there's no point in pushing
-another copy of that code to Github.
-
-1. Create a file named `.gitignore`. This is the file that tells git what things
-   it should ignore
-2. Inside `.gitignore`, add two lines:
-
-   ```
-   node_modules/
-   dist/
-   ```
-
-3. Now, track your changes with git: `git add --all`. You should **NOT** see
-   your `node_modules` or `dist` folders in the list of changed files. If you
-   do, you should double check that you made your `.gitignore` correctly.
-4. Commit them: `git commit -m "deployed my site"`
-5. And push: `git push`
-
-Now, you should see all of your changes in your main branch!
