@@ -200,23 +200,25 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 6: Games!</h3></summary>
+<details><summary><h3>Week 6: Libraries and local development </h3></summary>
 
 #### 6.1 February 7 Objects Review
 
 - Due
   - MP2
 - In-class
+  - [slides](slides/6.1_dev_toolchain.pdf)
   - Share-back: MP2: Audio Visualizer
-  - MP3 brainstorming
-  - Activity: Objects review
-  - Begin MP3: Game
+  - put links to your gallery in
+    [this google sheet](https://docs.google.com/spreadsheets/d/14LjYYlbOY524lPOKtt1Rvq2j5QLzFhkfwSUaie53wwg/edit?usp=sharing)
+  - Break and install Node
+  - Activity and demo: [dev toolchain setup](/activities/06_toolchain.md)
 
 #### 6.2 February 9 Managing state
 
 - In-class
   - Managing state
-  - Continue MP3: Game
+  - Continue MP3
 
 </details>
 
@@ -225,7 +227,7 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
 - Outside class
-  - Continue MP3: Game
+  - Continue MP3
 
 #### 7.2 February 16
 
