@@ -216,6 +216,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - Until next class
   - Think about which libraries you would like to use for MP3 for a game or data
     viz
+  - Add your project ideas to
+    [this spreadsheet](https://docs.google.com/spreadsheets/d/17B3bpdfW-q758DuU1a0raZqZfBNiVHhoBALBXfg_918/edit?usp=sharing)
   - I will check in with you next class on MP3
 
 #### 6.2 February 9
@@ -223,7 +225,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 - In-class
   - In-class demo: a game with p5
   - MP3 Check-ins
-  - Create MP3 work groups
+  - Create MP3 work groups from the
+    [spreadsheet](https://docs.google.com/spreadsheets/d/17B3bpdfW-q758DuU1a0raZqZfBNiVHhoBALBXfg_918/edit?usp=sharing)
   - Continue MP3
 
 </details>
