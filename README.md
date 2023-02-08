@@ -49,8 +49,8 @@ Peer Teaching         :active,          pte, 2023-01-03, 2023-03-17
 section Mini Projects
 Setup                 :active,          mp0, 2023-01-03, 2023-01-10
 Browser Extension     :                 mp1, 2023-01-10, 2023-01-24
-Audio Visualizer      :                 mp2, 2023-01-24, 2023-02-07
-Game                  :                 mp3, 2023-02-07, 2023-02-21
+Creative Coding     :                 mp2, 2023-01-24, 2023-02-07
+Dev Toolchain                  :                 mp3, 2023-02-07, 2023-02-21
 
 section Final Project
 Proposal              :                 fp0, 2023-02-16, 2023-02-23
@@ -220,14 +220,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
     [this spreadsheet](https://docs.google.com/spreadsheets/d/17B3bpdfW-q758DuU1a0raZqZfBNiVHhoBALBXfg_918/edit?usp=sharing)
   - I will check in with you next class on MP3
 
-#### 6.2 February 9
+#### 6.2 February 9: Starting MP3
 
 - In-class
-  - In-class demo: a game with p5
-  - MP3 Check-ins
+  - Begin [MP3: Dev Toolchain](assignments/mp3_dev_toolchain.md)
+  - MP3 brainstorming and checkins
   - Create MP3 work groups from the
     [spreadsheet](https://docs.google.com/spreadsheets/d/17B3bpdfW-q758DuU1a0raZqZfBNiVHhoBALBXfg_918/edit?usp=sharing)
-  - Continue MP3
+  - MP3 work time
 
 </details>
 
