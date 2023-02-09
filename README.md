@@ -223,11 +223,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 #### 6.2 February 9: Starting MP3
 
 - In-class
+  - [slides](slides/6.2_starting_mp3.pdf)
   - Begin [MP3: Dev Toolchain](assignments/mp3_dev_toolchain.md)
   - MP3 brainstorming and checkins
   - Create MP3 work groups from the
     [spreadsheet](https://docs.google.com/spreadsheets/d/17B3bpdfW-q758DuU1a0raZqZfBNiVHhoBALBXfg_918/edit?usp=sharing)
   - MP3 work time
+  - Game: https://github.com/branchwelder/example-game
+  - Viz: https://github.com/branchwelder/example-viz
 
 </details>
 
