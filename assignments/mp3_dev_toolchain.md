@@ -78,7 +78,12 @@ link to your deployed project.
 
 **Submit a link to your MP3 writeup in canvas.**
 
-## Game Track
+## General Resources
+
+- [An Absolute Beginner's Guide to NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [What is NPM and why do we need it?](https://www.youtube.com/watch?v=P3aKRdUyr0s)
+
+## Game Resources
 
 <!-- When working on your game, have a **win or loss condition**. -->
 
@@ -90,6 +95,9 @@ A good place to start using the P5.play library is to follow
 [this tutorial](https://workshops.hackclub.com/platformer/) from Hack Club.
 Their [Atari Breakout tutorial](https://workshops.hackclub.com/atari_breakout/)
 also shows a simple P5 game.
+
+I made you an [example](https://github.com/branchwelder/example-game) that shows
+how you import P5 and P5.play from `node_modules`.
 
 Some additional resources that might be helpful:
 
@@ -109,17 +117,19 @@ you have to write your code a little bit differently. This is the way you've
 normally been writing your p5 setup and draw functions:
 
 ```js
+let spr;
+
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
+  spr = createSprite(width / 2, height / 2, 40, 40);
+  spr.shapeColor = color(255);
 }
 
 function draw() {
-  if (mouseIsPressed) {
-    fill(0);
-  } else {
-    fill(255);
-  }
-  ellipse(mouseX, mouseY, 80, 80);
+  background(50);
+  spr.position.x = mouseX;
+  spr.position.y = mouseY;
+  drawSprites();
 }
 ```
 
@@ -130,19 +140,19 @@ function signatures from `function setup()` to `window.setup = () =>`. That
 changes the above sketch to this:
 
 ```js
-import "p5";
+let spr;
 
 window.setup = () => {
   createCanvas(windowWidth, windowHeight);
+  spr = createSprite(width / 2, height / 2, 40, 40);
+  spr.shapeColor = color(255);
 };
 
 window.draw = () => {
-  if (mouseIsPressed) {
-    fill(0);
-  } else {
-    fill(255);
-  }
-  ellipse(mouseX, mouseY, 80, 80);
+  background(50);
+  spr.position.x = mouseX;
+  spr.position.y = mouseY;
+  drawSprites();
 };
 ```
 
@@ -150,16 +160,38 @@ We have to do this because p5 creates a lot of global variables when it is
 imported, and it expects `setup` and `draw` to be defined globally. This is a
 quirk that is unique to P5 that I find a bit annoying.
 
-## Data Viz Track
+## Data Viz Resources
 
-You can also look at the list of
-[charting libraries](https://awesome.cube.dev/?tools=charts)
+You are allowed to use any charting library you wish. There is a nice list
+[here](https://awesome.cube.dev/?tools=charts). However, I have experience with
+D3 and will be able to best help you with it. If you are new to D3,
+[D3.js - a practical introduction](https://www.youtube.com/watch?v=TOJ9yjvlapY)
+is a great overview video that walks you through the basic functionality of the
+library. I also recommend going through this
+[excellent tutorial series](https://michaeloppermann.com/d3) from Michael
+Opperman. In particular, the
+[Intro to D3](https://github.com/michael-oppermann/d3-learning-material/tree/main/d3-tutorials/1_d3_tutorial)
+post has everything you need to know to get started.
 
-Some Data Viz resources:
+I have made a [basic example](https://github.com/branchwelder/example-viz) that
+loads data fr0m a CSV and draws rectangles based on the contents.
 
-- [D3 tutorials](https://observablehq.com/@d3/learn-d3)
+Your have two options for getting the data that you visualize:
+
+1. Download a dataset from some source and add it to your repository. _**Note**:
+   be mindful of the size of your dataset._
+2. Use the JavaScript
+   [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+   to request data from an API.
+   - if you are using D3, D3 also has a `d3-fetch` library that you can use.
+     [Example here](https://www.geeksforgeeks.org/d3-js-d3-fetch-api/)
+
+Some resources:
+
+- [An intro to D3 in 10 basic examples](https://d3-graph-gallery.com/intro_d3js.html)
+- [D3 tutorials](https://observablehq.com/@d3/learn-d3) on Observable (an online
+  environment similar to Jupyter notebooks)
 - [charting libraries](https://awesome.cube.dev/?tools=charts)
-
-<!-- ## Additional Resources
-
-- [an introduction to NPM](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/) -->
+- [Introduction to Fetch](https://web.dev/introduction-to-fetch/)
+- [Fetch and display data from an API](https://w3collective.com/fetch-display-api-data-javascript/)
+- Google
