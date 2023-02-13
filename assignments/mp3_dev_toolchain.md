@@ -85,30 +85,39 @@ link to your deployed project.
 
 ## Game Resources
 
-<!-- When working on your game, have a **win or loss condition**. -->
+If you are creating a game, your game should have an end condition. Anyone who
+plays your game should know when the game is over. For example, this could be a
+high score representing the number of enemies killed or the time the player
+spends alive.
 
-Read through
-[these examples](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
-to see P5.play's core features.
+Allison Parrish's
+[examples](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
+demonstrate P5.play's core features. It is likely that a basic example for any
+feature you want to add to your game can be found on this page. The P5.play
+[reference](https://p5play.org/learn/) is an excellent resource that will
+supplement the base p5 documentation. Their [demos](https://p5play.org/demos/)
+show a series of simple concepts and games that you can use to get started.
 
-A good place to start using the P5.play library is to follow
-[this tutorial](https://workshops.hackclub.com/platformer/) from Hack Club.
-Their [Atari Breakout tutorial](https://workshops.hackclub.com/atari_breakout/)
-also shows a simple P5 game.
+If you would like a step-by-step introduction,
+[this tutorial](https://workshops.hackclub.com/platformer/) walks you through
+how to use P5.play to create an endless runner.. This
+[Atari Breakout tutorial](https://workshops.hackclub.com/atari_breakout/) also
+shows a simple P5 game.
 
-I made you an [example](https://github.com/branchwelder/example-game) that shows
+I made you an
+[example starter repo](https://github.com/branchwelder/example-game) that shows
 how you import P5 and P5.play from `node_modules`.
 
 Some additional resources that might be helpful:
 
 - [Making your sketches work on mobile](https://creative-coding.decontextualize.com/mobile/)
+- [JavaScript Game Development Masterclass (Youtube Series)](https://www.youtube.com/playlist?list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2)
+- [Intro to creative coding cheatsheet](https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet)
 - [The future of web games](https://games.mozilla.org/)
 - [List of game engines](http://jstherightway.org/#game-engines) from Javascript
   the right way
-- [Tracery](https://github.com/galaxykate/tracery) A library for making grammars
-  for stories
-- [JavaScript Game Development Masterclass (Youtube Series)](https://www.youtube.com/playlist?list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2)
-- [Intro to creative coding cheatsheet](https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet)
+- [Tracery](https://github.com/galaxykate/tracery) - a library for making
+  grammars for stories
 
 ### Note: importing P5 when installed to `node_modules`
 
