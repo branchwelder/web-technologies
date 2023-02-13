@@ -8,12 +8,6 @@ server, bundle your code, and deploy your app.
 **Initial submission deadline:** Tuesday, 21 February, before class. Submit a
 link to your writeup via the Canvas assignment.
 
-<!--
-- Installing dependencies with `npm`
-- Local development with `web-dev-server` (`wds`)
-- Bundling with `rollup`
-- Deploying your app with the `gh-pages` library -->
-
 You can choose one of three tracks for this project. This project is mainly
 about practicing developing an app using modern development tools, and I hope
 that it can be an opportunity for you to explore a topic or particular library
@@ -21,8 +15,9 @@ you are interested in. **I will check in with you about your project direction
 in class.**
 
 1. **_A game._** Since we have just worked with p5, the obvious choice would be
-   to use the p5.play library. However, I have provided links to other game
-   frameworks if you are interested in exploring them.
+   to use [the p5.play library](https://p5play.org/index.html). However, I have
+   provided links to other game frameworks if you are interested in exploring
+   them.
 2. **_An interactive data visualization._** A number of you indicated that you
    were interested in learning or practicing D3 in the introductory survey.
 3. **_Something else._** If you have an idea for another mini project, ask me in
@@ -75,13 +70,6 @@ in class.**
 In addition to building your project, you should (as usual) complete a writeup
 following the [writeup guidelines](/assignments/writeups). Your writeup should
 link to your deployed project.
-
-**Submit a link to your MP3 writeup in canvas.**
-
-## General Resources
-
-- [An Absolute Beginner's Guide to NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
-- [What is NPM and why do we need it?](https://www.youtube.com/watch?v=P3aKRdUyr0s)
 
 ## Game Resources
 
@@ -204,3 +192,10 @@ Some resources:
 - [Introduction to Fetch](https://web.dev/introduction-to-fetch/)
 - [Fetch and display data from an API](https://w3collective.com/fetch-display-api-data-javascript/)
 - Google
+
+**Submit a link to your MP3 writeup in canvas.**
+
+## General Resources
+
+- [An Absolute Beginner's Guide to NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
+- [What is NPM and why do we need it?](https://www.youtube.com/watch?v=P3aKRdUyr0s)
