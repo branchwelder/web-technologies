@@ -243,6 +243,12 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 #### 7.2 February 16
 
+- [slides](slides/7.2_templates.pdf)
+- Absolute and relative paths
+- JavaScript templates and tagged template literals
+- [In-class templates activity](activities/07_templates.md)
+- MP3 work time
+
 </details>
 
 <details><summary><h3>Week 8</h3></summary>
