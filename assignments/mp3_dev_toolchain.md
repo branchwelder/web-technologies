@@ -195,7 +195,9 @@ Some resources:
 
 **Submit a link to your MP3 writeup in canvas.**
 
-## General Resources
+## Resources
 
 - [An Absolute Beginner's Guide to NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 - [What is NPM and why do we need it?](https://www.youtube.com/watch?v=P3aKRdUyr0s)
+- [Rollup Cheatsheet](https://devhints.io/rollup)
+- [Comparing the next generation of build tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)

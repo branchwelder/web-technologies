@@ -218,3 +218,9 @@ Your site should soon be live! You might have to wait a few minutes for Github's
 deployment checks to pass. You will be able to view it at
 `<username.github.io>/<repositoryname>`. For me, this looks like
 `branchwelder.github.io/dev-toolchain-example/`.
+
+## Resources
+
+- Rollup
+  - [Rollup Docs](https://rollupjs.org/)
+  - [Rollup cheatsheet](https://devhints.io/rollup)
