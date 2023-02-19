@@ -28,17 +28,17 @@ in class.**
 ## Project Requirements
 
 - Your code must be in its own **public** Github repository.
-- Your project must combine **at least two libraries** that are installed with
-  NPM and recorded in your `package.json`. _Note: these do not include your
-  development dependencies such as rollup._
+- Your project must combine **at least two libraries** ~~that are installed with
+  NPM and recorded in your `package.json`.~~
+  - **NOTE:** Due to the issues installing P5/P5.play with NPM, installing your project libraries (e.g. P5 and P5.play) with NPM is no longer a requirement and you are instead allowed to link to a CDN in your `index.html` in order to import them. You still are required to install the *dev dependencies* (dev server, bundler, and deployment tool) with NPM. **See my messages in Discord for more information, and ask any questions there.**
 - Your code must be bundled for deployment. You can continue to use rollup, but
   you are allowed (and encouraged) to explore other tools such as Webpack.
 - Your project must be deployed. You can deploy to Github Pages with the
   `gh-pages` tool, but you are allowed (and encouraged) to explore other
-  deployment options such as Firebase
-- Your `package.json` must include `start`, `build`, and `deploy` scripts.
+  deployment options such as Firebase.
+- Your `package.json` must include `start`, `build`, and `deploy` scripts, which run your dev server, build tool, and deploy tool, respectively.
 - Your main Github branch **must not include** your `node_modules` or `dist`
-  folders.
+  folders. (They should be ignored in a `.gitignore`)
 
 ## Instructions
 
@@ -71,6 +71,8 @@ In addition to building your project, you should (as usual) complete a writeup
 following the [writeup guidelines](/assignments/writeups). Your writeup should
 link to your deployed project.
 
+**DO NOT submit a link to a writeup that does not exist with the intent to edit it later.** Canvas takes screenshots of any website link you submit, so the state of your writeup at time of submission is recorded. Additionally, **we can see your entire git commit history, with timestamps** and can easily tell what the status of your writeup was at time of submission.
+
 ## Game Resources
 
 If you are creating a game, your game should have an end condition. Anyone who
@@ -92,9 +94,8 @@ how to use P5.play to create an endless runner.. This
 [Atari Breakout tutorial](https://workshops.hackclub.com/atari_breakout/) also
 shows a simple P5 game.
 
-I made you an
-[example starter repo](https://github.com/branchwelder/example-game) that shows
-how you import P5 and P5.play from `node_modules`.
+**I made you an
+[example](https://github.com/branchwelder/example-game) that shows what your game repository should look like.**
 
 Some additional resources that might be helpful:
 
@@ -107,7 +108,7 @@ Some additional resources that might be helpful:
 - [Tracery](https://github.com/galaxykate/tracery) - a library for making
   grammars for stories
 
-### Note: importing P5 when installed to `node_modules`
+<!-- ### Note: importing P5 when installed to `node_modules`
 
 When you install P5 to `node_modules` and import it into your `index.js` file,
 you have to write your code a little bit differently. This is the way you've
@@ -155,7 +156,7 @@ window.draw = () => {
 
 We have to do this because p5 creates a lot of global variables when it is
 imported, and it expects `setup` and `draw` to be defined globally. This is a
-quirk that is unique to P5 that I find a bit annoying.
+quirk that is unique to P5 that I find a bit annoying. -->
 
 ## Data Viz Resources
 
@@ -193,11 +194,77 @@ Some resources:
 - [Fetch and display data from an API](https://w3collective.com/fetch-display-api-data-javascript/)
 - Google
 
-**Submit a link to your MP3 writeup in canvas.**
 
 ## Resources
 
 - [An Absolute Beginner's Guide to NPM](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/)
 - [What is NPM and why do we need it?](https://www.youtube.com/watch?v=P3aKRdUyr0s)
 - [Rollup Cheatsheet](https://devhints.io/rollup)
+- [Rollup-plugin-copy](https://www.npmjs.com/package/rollup-plugin-copy)
 - [Comparing the next generation of build tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+
+## Tips
+
+### Check your P5/P5.play versions!
+
+I noticed some people were using  very outdated versions of P5 (version 0.7.2 or something, when the latest is something like 1.5.) Keep an eye out for this, especially if you are building off things you find online that might have been posted a long time ago! Features can vary greatly across versions of libraries, and deprecated features might not work in the way you expect. These are the links that my example game uses, which you are free to copy and paste into your `index.html` file:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/p5@1/lib/p5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1/lib/addons/p5.sound.min.js"></script>
+<script src="https://unpkg.com/@free-side/audioworklet-polyfill/dist/audioworklet-polyfill.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/planck@latest/dist/planck.min.js"></script>
+<script src="https://p5play.org/v3/p5play.js"></script>
+```
+
+### Copying folders to `dist/` with `rollup`
+
+If a `rollup.config.js` file which copies `index.html` to the `dist` folder looks like this:
+
+
+```js
+import copy from "rollup-plugin-copy";
+
+module.exports = {
+  input: "index.js",
+  output: {
+    dir: "dist",
+  },
+  treeshake: false,
+  plugins: [
+    copy({
+      targets: [{ src: "index.html", dest: "dist" }]
+    })
+  ],
+};
+```
+
+Making it also copy a folder called `images` would look like this:
+
+
+```js
+import copy from "rollup-plugin-copy";
+
+module.exports = {
+  input: "index.js",
+  output: {
+    dir: "dist",
+  },
+  treeshake: false,
+  plugins: [
+    copy({
+      targets: [{ src: ["index.html", "images"], dest: "dist" }]
+    })
+  ],
+};
+```
+
+### Adding things to `.gitignore` after they were committed
+
+When you list files/directories in your `.gitignore`, any changes to them are *ignored* by default. They won't be *deleted* if they already exist somewhere. This means that if you add files to your local `.gitignore` which already exist on Github, it won't delete them. You'll need to delete the directories on Github manually:
+
+1. On the Github site for your repo, navigate into the folder you want to delete.
+2. Click the top right corner button that says  `. . .`
+3. Click "delete directory"
+4. **Important:** Scroll to the bottom to press the button that commits your changes.
