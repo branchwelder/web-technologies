@@ -202,6 +202,7 @@ Some resources:
 - [Rollup Cheatsheet](https://devhints.io/rollup)
 - [Rollup-plugin-copy](https://www.npmjs.com/package/rollup-plugin-copy)
 - [Comparing the next generation of build tools](https://css-tricks.com/comparing-the-new-generation-of-build-tools/)
+- [Modern JavaScript Explained for Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)
 
 ## Tips
 

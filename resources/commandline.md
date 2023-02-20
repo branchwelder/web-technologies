@@ -21,6 +21,10 @@ copy, rename and delete:
 - Manipulate and transform streams of text (for example changing all the
   instances of `<div>`s in an HTML file to `<article>`): `awk`, `tr`, `sed`
 
+## Tutorials
+
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
+
 ## Games
 
 - [bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - dungeon crawler game
