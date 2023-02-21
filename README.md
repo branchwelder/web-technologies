@@ -234,14 +234,14 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 7</h3></summary>
+<details><summary><h3>Week 7 Templates</h3></summary>
 
 #### 7.1 February 14 _NO CLASS - HANNAH TRAVELING_
 
 - Outside class
   - Continue MP3
 
-#### 7.2 February 16
+#### 7.2 February 16 Templates
 
 - [slides](slides/7.2_templates.pdf)
 - Absolute and relative paths
@@ -251,40 +251,27 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 8</h3></summary>
+<details><summary><h3>Week 8: Fetch, Data, APIs</h3></summary>
 
-#### 8.1 February 21
+#### 8.1 February 21 MP3 Share and Fetch
 
 - Due
   - MP3
 - In-class
-  - MP3 Share
-  - Final Project Brainstorming
-  - Planning your projects
+  - [slides](slides/8.1_fetch.pdf)
+  - MP3 Share Back
+  - Using Fetch to get data from an API
+  - Activity: [Fetching data](/activities/08_fetch.md)
 
 #### 8.2 February 23
 
-- **DUE: FP0 - Final Project Proposal**
-- In-class
-  - FP0 Share
-  - TBD Special topics
-  - Project work time
-
 </details>
 
-<details><summary><h3>Week 9: Special Topics, Project Iteration</h3></summary>
+<details><summary><h3>Week 9: Special Topics</h3></summary>
 
 #### 9.1 February 28
 
-- In-class
-  - TBD special topics
-  - Project work time
-
 #### 9.2 March 2
-
-- **DUE: FP1 - MVP**
-- In-class
-  - Project work time
 
 </details>
 
