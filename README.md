@@ -259,7 +259,8 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - MP3
 - In-class
   - [slides](slides/8.1_fetch.pdf)
-  - MP3 Share Back
+  - MP3 Share Back -
+    [game spreadsheet](https://docs.google.com/spreadsheets/d/1o0l0f3Ee3R-2qH_phHAmxZMv2aCVDBuXGJzwTFoApeI/edit?usp=sharing)
   - Using Fetch to get data from an API
   - Activity: [Fetching data](/activities/08_fetch.md)
 
