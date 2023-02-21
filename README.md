@@ -47,16 +47,16 @@ Portfolio             :active,          prf, 2023-01-03, 2023-03-17
 Peer Teaching         :active,          pte, 2023-01-03, 2023-03-17
 
 section Mini Projects
-Setup                 :active,          mp0, 2023-01-03, 2023-01-10
+Setup                 :                 mp0, 2023-01-03, 2023-01-10
 Browser Extension     :                 mp1, 2023-01-10, 2023-01-24
-Creative Coding     :                 mp2, 2023-01-24, 2023-02-07
-Dev Toolchain                  :                 mp3, 2023-02-07, 2023-02-21
+Creative Coding       :                 mp2, 2023-01-24, 2023-02-07
+Dev Toolchain         :                 mp3, 2023-02-07, 2023-02-21
 
 section Final Project
-Proposal              :                 fp0, 2023-02-16, 2023-02-23
-MVP                   :                 fp1, 2023-02-23, 2023-03-02
+Proposal              :active,          fp0, 2023-02-21, 2023-02-28
+Prototype             :                 fp1, 2023-02-28, 2023-03-07
 Demo Day              :milestone, crit, dem, 2023-03-09, 0d
-Final version         :                 fp2, 2023-03-02, 2023-03-17
+Final version         :                 fp2, 2023-03-07, 2023-03-17
 ```
 
 ## Weekly Schedule
@@ -261,8 +261,10 @@ Final version         :                 fp2, 2023-03-02, 2023-03-17
   - [slides](slides/8.1_fetch.pdf)
   - MP3 Share Back -
     [game spreadsheet](https://docs.google.com/spreadsheets/d/1o0l0f3Ee3R-2qH_phHAmxZMv2aCVDBuXGJzwTFoApeI/edit?usp=sharing)
+  - Final project requirements/proposal
   - Using Fetch to get data from an API
   - Activity: [Fetching data](/activities/08_fetch.md)
+- Assigned: [Final Project Proposal](assignments/fp0_proposal.md)
 
 #### 8.2 February 23
 

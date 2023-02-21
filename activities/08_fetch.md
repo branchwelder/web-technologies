@@ -30,7 +30,9 @@ using a `lit-html` template.
 
 ## Resources
 
-- [MDN Docs Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Allow CORS Chrome Extension](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
+- [MDN Docs Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [Javascript.info fetch](https://javascript.info/fetch)
 - [JSON Placeholder Guide](https://jsonplaceholder.typicode.com/guide/)
 - [lit-html docs](https://lit.dev/docs/libraries/standalone-templates/)
 - [vite docs](https://vitejs.dev/guide/)
