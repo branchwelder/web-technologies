@@ -123,7 +123,7 @@ At the top of `index.js`, below the line that imports `initializeApp`, add a
 line to import Cloud Firestore:
 
 ```js
-import { getFirestore } from "firebase/firestore";
+import { getFirestore, collection, addDoc } from "firebase/firestore";
 ```
 
 You'll also need to add a line to initialize the Firestore database:
