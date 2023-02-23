@@ -251,7 +251,7 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
 
 </details>
 
-<details><summary><h3>Week 8: Fetch, Data, APIs</h3></summary>
+<details><summary><h3>Week 8: Fetch + APIs, Firebase</h3></summary>
 
 #### 8.1 February 21 MP3 Share and Fetch
 
@@ -267,6 +267,15 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
 - Assigned: [Final Project Proposal](assignments/fp0_proposal.md)
 
 #### 8.2 February 23
+
+- In-class
+  - [slides](slides/8.2_firebase.pdf)
+  - Notes on P5.play library changes
+  - Firebase intro
+  - Firebase app setup demo and walk through
+  - [Firebase activity](activities/09_firebase.md)
+  - [Example firebase database](https://github.com/branchwelder/example-db)
+  - [Example chat app with firebase](https://github.com/branchwelder/example-firebase)
 
 </details>
 
