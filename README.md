@@ -281,7 +281,18 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
 
 <details><summary><h3>Week 9: Special Topics</h3></summary>
 
-#### 9.1 February 28
+#### 9.1 February 28 - Portfolio Checks
+
+- Due
+  - FP0 - Final Project Proposal
+- In class
+  - [slides](slides/9.1_portfolio_checks.pdf)
+  - [portfolio and final project spreadsheet](https://docs.google.com/spreadsheets/d/10H_dDWgXRlT_YO45uZy9vwmICFDfal3P1pd7ZQqp980/edit?usp=sharing)
+  - [Portfolio checking activity](activities/10_portfolio_checks.md)
+  - Final project checkins
+- Assigned
+  - [FP1 - Final project prototype](assignments/fp1_prototype.md)
+  - [Template project](https://github.com/branchwelder/webdev-template)
 
 #### 9.2 March 2
 
@@ -291,6 +302,8 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
 
 #### 10.1 March 7 Work time!
 
+- Due
+  - FP1 - Final Project Prototype
 - In-class
   - Project work time
 
