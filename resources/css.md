@@ -28,11 +28,13 @@ informative until you have a reason to use them.
 
 ## Transitions
 
-- [Great tutorial on CSS transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+- [Interactive guide to CSS transitions](https://www.joshwcomeau.com/animation/css-transitions/)
 - [Gallery of simple CSS transitions](https://projects.verou.me/animatable/)
 
 ## Layout
 
+- [Grid by example](https://gridbyexample.com/examples/) - Incredible collection
+  of grid examples
 - [State of CSS Layout](https://2022.stateofcss.com/en-US/features/layout/) -
   overview of the most common approaches to layout with CSS
 - [Flexbox Froggy](https://flexboxfroggy.com/) is a fantastic game for
