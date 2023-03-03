@@ -54,9 +54,9 @@ Dev Toolchain         :                 mp3, 2023-02-07, 2023-02-21
 
 section Final Project
 Proposal              :active,          fp0, 2023-02-21, 2023-02-28
-Prototype             :                 fp1, 2023-02-28, 2023-03-07
+Prototype             :                 fp1, 2023-02-28, 2023-03-08
 Demo Day              :milestone, crit, dem, 2023-03-09, 0d
-Final version         :                 fp2, 2023-03-07, 2023-03-17
+Final version         :                 fp2, 2023-03-08, 2023-03-17
 ```
 
 ## Weekly Schedule
@@ -294,7 +294,9 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
   - [FP1 - Final project prototype](assignments/fp1_prototype.md)
   - [Template project](https://github.com/branchwelder/webdev-template)
 
-#### 9.2 March 2
+#### 9.2 March 2 Work time!
+
+- In class: Work time! Hannah will be around to answer questions.
 
 </details>
 
@@ -302,10 +304,7 @@ Final version         :                 fp2, 2023-03-07, 2023-03-17
 
 #### 10.1 March 7 Work time!
 
-- Due
-  - FP1 - Final Project Prototype
-- In-class
-  - Project work time
+- In-class: Work time! Hannah will be around to answer questions.
 
 #### 10.2 March 9 Demo day!
 
